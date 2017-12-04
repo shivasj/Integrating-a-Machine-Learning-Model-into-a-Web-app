@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="927388e7-8102-452d-92f8-31adda44f2d0" name="Default" comment="" />
+    <list default="true" id="927388e7-8102-452d-92f8-31adda44f2d0" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/textsummarizer-db/diagnostic.data/metrics.2017-12-02T15-00-32Z-00000" afterPath="$PROJECT_DIR$/textsummarizer-db/diagnostic.data/metrics.2017-12-02T15-00-32Z-00000" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/textsummarizer-db/diagnostic.data/metrics.interim" afterPath="$PROJECT_DIR$/textsummarizer-db/diagnostic.data/metrics.interim" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -34,7 +40,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="home.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/textsummarizerapp/components/home/home.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="251">
@@ -42,6 +48,16 @@
               <folding>
                 <element signature="e#129#289#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="162" lean-forward="false" selection-start-line="4" selection-start-column="162" selection-end-line="4" selection-end-column="162" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -113,6 +129,9 @@
       <find>content</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -138,6 +157,7 @@
         <option value="$PROJECT_DIR$/textsummarizerapp/components/home/home.js" />
         <option value="$PROJECT_DIR$/textsummarizerapp/components/textsummarizer/textsummarizer.js" />
         <option value="$PROJECT_DIR$/textsummarizerapp/components/sentimentanalysis/sentimentanalysis.js" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -167,6 +187,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -204,7 +225,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -247,20 +267,22 @@
       <workItem from="1512226509575" duration="7820000" />
       <workItem from="1512303194759" duration="12105000" />
       <workItem from="1512347525233" duration="516000" />
+      <workItem from="1512353359505" duration="126000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20441000" />
+    <option name="totallyTimeSpent" value="20567000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="947" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22001205" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22001205" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -285,6 +307,74 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/textsummarizerapp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="59" lean-forward="false" selection-start-line="29" selection-start-column="59" selection-end-line="29" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/textsummarizerapp/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="46" lean-forward="false" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/textsummarizerapp/components/textsummarizer/textsummarizer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="59" column="34" lean-forward="false" selection-start-line="59" selection-start-column="34" selection-end-line="59" selection-end-column="34" />
+          <folding>
+            <element signature="e#139#299#0" expanded="false" />
+            <element signature="e#1133#1290#0" expanded="false" />
+            <element signature="e#1337#1496#0" expanded="false" />
+            <element signature="e#1540#1663#0" expanded="false" />
+            <element signature="e#1702#1825#0" expanded="false" />
+            <element signature="e#1867#2065#0" expanded="false" />
+            <element signature="e#2100#2348#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/textsummarizerapp/components/textsummarizer/textsummarizer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1005">
+          <caret line="67" column="29" lean-forward="true" selection-start-line="67" selection-start-column="29" selection-end-line="67" selection-end-column="29" />
+          <folding>
+            <element signature="e#834#840#1" expanded="true" />
+            <element signature="e#2794#2800#1" expanded="true" />
+            <element signature="e#3026#3032#0" expanded="true" />
+            <element signature="e#3032#3038#0" expanded="true" />
+            <element signature="e#4432#4438#1" expanded="true" />
+            <element signature="e#4627#4633#0" expanded="true" />
+            <element signature="e#4633#4639#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/textsummarizerapp/components/sentimentanalysis/sentimentanalysis.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="53" column="39" lean-forward="false" selection-start-line="53" selection-start-column="39" selection-end-line="53" selection-end-column="39" />
+          <folding>
+            <element signature="e#142#302#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/textsummarizerapp/components/home/home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="38" column="91" lean-forward="false" selection-start-line="38" selection-start-column="76" selection-end-line="38" selection-end-column="91" />
+          <folding>
+            <element signature="e#129#289#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/textsummarizerapp/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -413,7 +503,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -507,7 +596,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -529,7 +617,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="705">
           <caret line="47" column="15" lean-forward="false" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -553,10 +640,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="37" lean-forward="false" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
-          <folding>
-            <element signature="e#478#484#1" expanded="true" />
-            <element signature="e#673#679#1" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -564,18 +647,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="88" column="27" lean-forward="false" selection-start-line="88" selection-start-column="17" selection-end-line="88" selection-end-column="27" />
-          <folding>
-            <element signature="e#166#442#0" expanded="false" />
-            <element signature="e#485#2086#0" expanded="false" />
-            <element signature="e#2138#2769#0" expanded="false" />
-            <element signature="e#2824#3455#0" expanded="false" />
-            <element signature="e#3503#4060#0" expanded="false" />
-            <element signature="e#4123#4432#0" expanded="false" />
-            <element signature="e#4477#5803#0" expanded="false" />
-            <element signature="e#5854#6314#0" expanded="false" />
-            <element signature="e#6377#7944#0" expanded="false" />
-            <element signature="e#7998#8872#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -583,7 +654,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="704">
           <caret line="86" column="30" lean-forward="false" selection-start-line="86" selection-start-column="30" selection-end-line="86" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -591,17 +661,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="85" column="97" lean-forward="false" selection-start-line="85" selection-start-column="78" selection-end-line="85" selection-end-column="97" />
-          <folding>
-            <element signature="e#840#846#1" expanded="true" />
-            <element signature="e#2493#2499#1" expanded="true" />
-            <element signature="e#2728#2734#0" expanded="true" />
-            <element signature="e#2734#2740#0" expanded="true" />
-            <element signature="e#4077#4083#0" expanded="true" />
-            <element signature="e#4083#4089#0" expanded="true" />
-            <element signature="e#4323#4329#1" expanded="true" />
-            <element signature="e#4548#4554#0" expanded="true" />
-            <element signature="e#4554#4560#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -654,6 +713,14 @@
           <folding>
             <element signature="e#129#289#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="162" lean-forward="false" selection-start-line="4" selection-start-column="162" selection-end-line="4" selection-end-column="162" />
+          <folding />
         </state>
       </provider>
     </entry>
