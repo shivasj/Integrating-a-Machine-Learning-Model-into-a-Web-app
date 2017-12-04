@@ -1,0 +1,29 @@
+{"dist": 0.04054504595659404, "idx": 1, "text": "One variable is considered to be an explanatory variable , and the other is considered to be a dependent variable ."}
+{"dist": 0.037713797275416155, "idx": 8, "text": "A linear regression line has an equation of the form Y = a + bX , where X is the explanatory variable and Y is the dependent variable ."}
+{"dist": 0.03494585807212801, "idx": 0, "text": "Linear regression attempts to model the relationship between two variables by fitting a linear equation to observed data ."}
+{"dist": 0.030524266568207104, "idx": 20, "text": "Suppose we choose to consider number of people per television set as the explanatory variable , and number of people per physician as the dependent variable ."}
+{"dist": 0.02792596651080794, "idx": 15, "text": "The dataset \" Televisions , Physicians , and Life Expectancy \" contains , among other variables , the number of people per television set and the number of people per physician for 40 countries ."}
+{"dist": 0.02782346316273133, "idx": 10, "text": "Least-Squares Regression"}
+{"dist": 0.026999932951264467, "idx": 18, "text": "The r\u00b2 value is 0.726 ( the square of the correlation coefficient ) , indicating that 72.6% of the variation in one variable may be explained by the other ."}
+{"dist": 0.026610830488275977, "idx": 3, "text": "Before attempting to fit a linear model to observed data , a modeler should first determine whether or not there is a relationship between the variables of interest ."}
+{"dist": 0.025572798548438636, "idx": 7, "text": "A valuable numerical measure of association between two variables is the correlation coefficient , which is a value between -1 and 1 indicating the strength of the association of the observed data for the two variables ."}
+{"dist": 0.024568954580883495, "idx": 26, "text": "For this example , the plot appears to the right , with number of individuals per television set ( the explanatory variable ) on the x-axis and number of individuals per physician ( the dependent variable ) on the y-axis ."}
+{"dist": 0.024066468357145012, "idx": 5, "text": "A scatterplot can be a helpful tool in determining the strength of the relationship between two variables ."}
+{"dist": 0.02379042651065101, "idx": 11, "text": "The most common method for fitting a regression line is the method of least-squares ."}
+{"dist": 0.023401899850094655, "idx": 6, "text": "If there appears to be no association between the proposed explanatory and dependent variables ( i.e. , the scatterplot does not indicate any increasing or decreasing trends ) , then fitting a linear regression model to the data probably will not provide a useful model ."}
+{"dist": 0.022623425491405193, "idx": 16, "text": "Since both variables probably reflect the level of wealth in each country , it is reasonable to assume that there is some positive association between them ."}
+{"dist": 0.02060737698484356, "idx": 25, "text": "To view the fit of the model to the observed data , one may plot the computed regression line over the actual data points to evaluate the results ."}
+{"dist": 0.02012192253222201, "idx": 2, "text": "For example , a modeler might want to relate the weights of individuals to their heights using a linear regression model . \n"}
+{"dist": 0.019595136276137754, "idx": 4, "text": "This does not necessarily imply that one variable causes the other ( for example , higher SAT scores do not cause higher college grades ) , but that there is some significant association between the two variables ."}
+{"dist": 0.01830831987958183, "idx": 28, "text": "These points are known as outliers , and depending on their location may have a major impact on the regression line ( see below ) ."}
+{"dist": 0.017703572450572146, "idx": 17, "text": "After removing 8 countries with missing values from the dataset , the remaining 32 countries have a correlation coefficient of 0.852 for number of people per television set and number of people per physician ."}
+{"dist": 0.017511839827033908, "idx": 23, "text": "= 1019 + 56.2 People ."}
+{"dist": 0.01721137367053023, "idx": 9, "text": "The slope of the line is b , and a is the intercept ( the value of y when x = 0 ) . \n"}
+{"dist": 0.016285756541317038, "idx": 27, "text": "While most of the data points are clustered towards the lower left corner of the plot ( indicating relatively few individuals per television set and per physician ) , there are a few points which lie far away from the main cluster of the data ."}
+{"dist": 0.015878611101225733, "idx": 21, "text": "Using the MINITAB \" REGRESS \" command gives the following results : \n The regression equation is People ."}
+{"dist": 0.014205865892367137, "idx": 12, "text": "This method calculates the best-fitting line for the observed data by minimizing the sum of the squares of the vertical deviations from each data point to the line ( if a point lies on the fitted line exactly , then its vertical deviation is 0 ) ."}
+{"dist": 0.013458017957688686, "idx": 13, "text": "Because the deviations are first squared , then summed , there are no cancellations between positive and negative values . \n"}
+{"dist": 0.011371156905424338, "idx": 19, "text": "( Note : see correlation for more detail . )"}
+{"dist": 0.004340801028762921, "idx": 24, "text": "Tel . \n"}
+{"dist": 0.00430662149310337, "idx": 22, "text": "Phys ."}
+{"dist": 0.002745968484656567, "idx": 14, "text": "Example"}

@@ -1,0 +1,14 @@
+<div ng-class="{'alert-success' : confirmmodalCtrl.valid, 'alert-danger' : !confirmmodalCtrl.valid}">
+    <div class="modal-header" ng-show="confirmmodalCtrl.valid">
+        <h3 class="modal-title "><i class="fa fa-check" aria-hidden="true"></i> Product is Authentic</h3>
+    </div>
+    <div class="modal-header" ng-show="!confirmmodalCtrl.valid">
+        <h3 class="modal-title "><i class="fa fa-exclamation-triangle" aria-hidden="true"></i> Product is Fake</h3>
+    </div>
+    <div class="modal-body">
+        For more questions on the product please contact customer service at <a href="tel:888-123-9999">888-123-9999</a>
+    </div>
+    <div class="modal-footer">
+        <button class="btn btn-default" ng-click="confirmmodalCtrl.ok()">OK</button>
+    </div>
+</div>

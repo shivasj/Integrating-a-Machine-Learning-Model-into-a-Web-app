@@ -1,0 +1,51 @@
+ul.post-grid {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+ul.post-grid li {
+    padding: 10px;
+    cursor: pointer;
+    -webkit-transition: background linear 0.5s;
+    transition: background linear 0.5s;
+
+}
+ul.post-grid li:hover {
+    /*background: #e2e2e2;*/
+    /*color: white;*/
+}
+ul.post-grid li:hover h3 {
+    /*color: white;*/
+}
+.blog-container{
+    padding-top: 1px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    background-color: #ffffff;
+}
+.blog-post-summary{
+    min-height: 140px;
+    max-height: 140px;
+    overflow: hidden;
+
+}
+.blog-post-summary-buttons{
+    border-top: 1px solid #3a8bab;
+}
+
+.comment-container{
+    padding: 30px;
+    background-color: #ffffff;
+}
+.comment-post{
+    min-height: 40px;
+    max-height: 140px;
+    overflow: hidden;
+
+}
+
+.content-output{
+    background-color: #ffffff;
+    padding: 10px;
+}

@@ -1,0 +1,391 @@
+{"count": 2, "ids": [525, 481], "pos": "np", "rank": 0.03046266276003839, "text": "1st layer"}
+{"count": 37, "ids": [51], "pos": "vbz", "rank": 0.019747102767839853, "text": "is"}
+{"count": 1, "ids": [307, 479, 480], "pos": "np", "rank": 0.018197965564943127, "text": "individual feature maps"}
+{"count": 1, "ids": [249, 477], "pos": "np", "rank": 0.01581752269036781, "text": "input stimuli"}
+{"count": 3, "ids": [313, 481], "pos": "np", "rank": 0.015231331380019196, "text": "higher layers"}
+{"count": 9, "ids": [407, 408], "pos": "np", "rank": 0.015189573095777712, "text": "et al"}
+{"count": 6, "ids": [249, 75], "pos": "np", "rank": 0.014946390857834838, "text": "input image"}
+{"count": 4, "ids": [413, 201], "pos": "np", "rank": 0.014066452678706681, "text": "convnet model"}
+{"count": 1, "ids": [418, 419, 420], "pos": "np", "rank": 0.01346176990866855, "text": "hand-written digit classification"}
+{"count": 1, "ids": [584], "pos": "np", "rank": 0.013355829753855991, "text": "filters"}
+{"count": 1, "ids": [225], "pos": "np", "rank": 0.012538587047510662, "text": "uses"}
+{"count": 2, "ids": [479, 491], "pos": "np", "rank": 0.011471826639884462, "text": "feature activation"}
+{"count": 1, "ids": [583, 481, 497], "pos": "np", "rank": 0.010154220920012797, "text": "previous layer output"}
+{"count": 1, "ids": [414, 415], "pos": "np", "rank": 0.00892364755731111, "text": "excellent performance"}
+{"count": 2, "ids": [486, 487], "pos": "np", "rank": 0.00828605796482354, "text": "deconvolutional network"}
+{"count": 7, "ids": [479, 480], "pos": "np", "rank": 0.008267892697121802, "text": "feature maps"}
+{"count": 14, "ids": [249], "pos": "nn", "rank": 0.007908761345183904, "text": "input"}
+{"count": 3, "ids": [249, 492, 278], "pos": "np", "rank": 0.007908761345183904, "text": "input pixel space"}
+{"count": 1, "ids": [104, 290, 481], "pos": "np", "rank": 0.007615665690009598, "text": "top few layers"}
+{"count": 18, "ids": [408], "pos": "nnp", "rank": 0.007594786547888856, "text": "al"}
+{"count": 4, "ids": [489, 407, 408], "pos": "np", "rank": 0.007594786547888856, "text": "zeiler et al"}
+{"count": 1, "ids": [530], "pos": "np", "rank": 0.007501319749004784, "text": "activity"}
+{"count": 1, "ids": [75, 278], "pos": "np", "rank": 0.007473195428917419, "text": "image space"}
+{"count": 1, "ids": [417, 152, 415], "pos": "np", "rank": 0.007366340971591465, "text": "such good performance"}
+{"count": 1, "ids": [446, 164, 52], "pos": "np", "rank": 0.007348633063417583, "text": "larger training sets"}
+{"count": 1, "ids": [452, 201], "pos": "np", "rank": 0.007033226339353341, "text": "large models"}
+{"count": 5, "ids": [420], "pos": "nn", "rank": 0.006730884954334275, "text": "classification"}
+{"count": 1, "ids": [1, 427, 428, 420, 416], "pos": "np", "rank": 0.006730884954334275, "text": "more challenging visual classification tasks"}
+{"count": 1, "ids": [151, 584], "pos": "np", "rank": 0.006677914876927996, "text": "learned filters"}
+{"count": 1, "ids": [607, 580], "pos": "np", "rank": 0.006369509638493187, "text": "true class"}
+{"count": 1, "ids": [435, 0], "pos": "np", "rank": 0.006273739721606154, "text": "imagenet 2012"}
+{"count": 1, "ids": [602, 481], "pos": "np", "rank": 0.006092532552007679, "text": "final layer"}
+{"count": 1, "ids": [413, 479], "pos": "np", "rank": 0.006065988521647709, "text": "convnet features"}
+{"count": 1, "ids": [496, 497], "pos": "np", "rank": 0.006050023745494844, "text": "classifier output"}
+{"count": 1, "ids": [416], "pos": "np", "rank": 0.005994323328608481, "text": "tasks"}
+{"count": 2, "ids": [533], "pos": "np", "rank": 0.005940127671974112, "text": "unit"}
+{"count": 1, "ids": [432, 238], "pos": "np", "rank": 0.005767243311773069, "text": "cifar-10 datasets"}
+{"count": 1, "ids": [563, 491], "pos": "np", "rank": 0.005735913319942231, "text": "strong activations"}
+{"count": 1, "ids": [569, 479, 480], "pos": "np", "rank": 0.005511928464747868, "text": "particular feature map"}
+{"count": 2, "ids": [488], "pos": "np", "rank": 0.0053340782990049, "text": "deconvnet"}
+{"count": 1, "ids": [420, 436], "pos": "np", "rank": 0.005286129107569143, "text": "classification benchmark"}
+{"count": 1, "ids": [499], "pos": "np", "rank": 0.005111178224441561, "text": "portions"}
+{"count": 1, "ids": [411, 481], "pos": "np", "rank": 0.0050771104600063986, "text": "convolutional layers"}
+{"count": 1, "ids": [0, 515, 407, 408, 0], "pos": "np", "rank": 0.005063191031925904, "text": "( hinton et al ."}
+{"count": 1, "ids": [441, 87, 83], "pos": "np", "rank": 0.0050544975810405445, "text": "2nd place result"}
+{"count": 2, "ids": [567], "pos": "np", "rank": 0.005016246089260282, "text": "structures"}
+{"count": 1, "ids": [573, 249, 75, 574], "pos": "np", "rank": 0.004982130285944946, "text": "2d input image xi"}
+{"count": 1, "ids": [98, 201], "pos": "np", "rank": 0.004700264618249229, "text": "complex models"}
+{"count": 1, "ids": [454, 201, 455, 456], "pos": "np", "rank": 0.0046888175595688935, "text": "better model regularization strategies"}
+{"count": 3, "ids": [479], "pos": "np", "rank": 0.004549491391235782, "text": "features"}
+{"count": 1, "ids": [552], "pos": "np", "rank": 0.00452245768355985, "text": "invariances"}
+{"count": 1, "ids": [426, 415], "pos": "np", "rank": 0.004461823778655555, "text": "outstanding performance"}
+{"count": 1, "ids": [628, 584], "pos": "np", "rank": 0.00445194325128533, "text": "same filters"}
+{"count": 7, "ids": [383], "pos": "vbn", "rank": 0.004446300004907142, "text": "given"}
+{"count": 1, "ids": [650, 298], "pos": "np", "rank": 0.004362239541850658, "text": "switch variables"}
+{"count": 1, "ids": [621, 481], "pos": "np", "rank": 0.004351808965719771, "text": "intermediate layers"}
+{"count": 17, "ids": [407], "pos": "nnp", "rank": 0.0042642727269370725, "text": "et"}
+{"count": 1, "ids": [92, 434], "pos": "np", "rank": 0.0042257719205058076, "text": "show record"}
+{"count": 1, "ids": [346, 523], "pos": "np", "rank": 0.004190109996378702, "text": "common practice"}
+{"count": 1, "ids": [485, 486, 487], "pos": "np", "rank": 0.00414302898241177, "text": "multi-layered deconvolutional network"}
+{"count": 1, "ids": [480], "pos": "np", "rank": 0.004133946348560901, "text": "maps"}
+{"count": 1, "ids": [608, 609, 587], "pos": "np", "rank": 0.00393516837200925, "text": "cross-entropy loss function"}
+{"count": 1, "ids": [462, 463], "pos": "np", "rank": 0.00391108888411064, "text": "internal operation"}
+{"count": 2, "ids": [413], "pos": "np", "rank": 0.0038833974794200447, "text": "convnet"}
+{"count": 2, "ids": [491], "pos": "np", "rank": 0.0038239422132948205, "text": "activation"}
+{"count": 1, "ids": [488, 481], "pos": "np", "rank": 0.003807832845004799, "text": "deconvnet layer"}
+{"count": 1, "ids": [517, 0, 408], "pos": "np", "rank": 0.003797393273944428, "text": "vincent et al"}
+{"count": 1, "ids": [306, 612], "pos": "np", "rank": 0.003797051021561909, "text": "weight matrices"}
+{"count": 1, "ids": [628, 629], "pos": "np", "rank": 0.003796560104347914, "text": "same components"}
+{"count": 1, "ids": [660, 479, 652], "pos": "np", "rank": 0.003777840101697439, "text": "valid feature reconstructions"}
+{"count": 1, "ids": [459, 460, 461], "pos": "np", "rank": 0.003776973275017616, "text": "lit- tle insight"}
+{"count": 1, "ids": [479, 530], "pos": "np", "rank": 0.003750659874502392, "text": "feature activity"}
+{"count": 1, "ids": [75], "pos": "np", "rank": 0.0037365977144587096, "text": "images"}
+{"count": 2, "ids": [511, 496], "pos": "np", "rank": 0.003703122471664571, "text": "softmax classifier"}
+{"count": 1, "ids": [293, 249, 75], "pos": "np", "rank": 0.0036818074661386572, "text": "original input image"}
+{"count": 6, "ids": [52], "pos": "nn", "rank": 0.0036743165317087915, "text": "set"}
+{"count": 1, "ids": [452, 52], "pos": "np", "rank": 0.0036743165317087915, "text": "large set"}
+{"count": 1, "ids": [526], "pos": "np", "rank": 0.003569527336703285, "text": "projections"}
+{"count": 1, "ids": [676, 677], "pos": "np", "rank": 0.003493693884276606, "text": "small piece"}
+{"count": 2, "ids": [411, 412], "pos": "np", "rank": 0.0034093670701869916, "text": "convolutional networks"}
+{"count": 5, "ids": [278], "pos": "nn", "rank": 0.0034061568629047507, "text": "space"}
+{"count": 1, "ids": [583, 481], "pos": "np", "rank": 0.0033847403066709324, "text": "previous layer"}
+{"count": 1, "ids": [75, 420], "pos": "np", "rank": 0.0033654424771671376, "text": "image classification"}
+{"count": 1, "ids": [534, 535], "pos": "np", "rank": 0.0033422950319641855, "text": "gradient descent"}
+{"count": 1, "ids": [591], "pos": "np", "rank": 0.0032850078052737786, "text": "max"}
+{"count": 1, "ids": [410, 540, 541], "pos": "np", "rank": 0.003272762525384111, "text": "\u2019s in- variances"}
+{"count": 1, "ids": [658], "pos": "np", "rank": 0.0032713869144049227, "text": "relu"}
+{"count": 1, "ids": [532, 551], "pos": "np", "rank": 0.0032476983932902786, "text": "optimal response"}
+{"count": 1, "ids": [294, 587], "pos": "np", "rank": 0.003226849337553687, "text": "linear function"}
+{"count": 2, "ids": [598, 599], "pos": "np", "rank": 0.0032145754828006895, "text": "opera- tion"}
+{"count": 3, "ids": [603], "pos": "np", "rank": 0.0031860341582510268, "text": "fig"}
+{"count": 2, "ids": [580], "pos": "nn", "rank": 0.0031847548192465935, "text": "class"}
+{"count": 1, "ids": [249, 624, 625], "pos": "np", "rank": 0.0031635045380735615, "text": "input pattern orig-"}
+{"count": 5, "ids": [592], "pos": "vbg", "rank": 0.0031632583363087018, "text": "pooling"}
+{"count": 1, "ids": [435], "pos": "np", "rank": 0.003136869860803077, "text": "imagenet"}
+{"count": 1, "ids": [593, 594], "pos": "np", "rank": 0.00313346836906066, "text": "local neighborhoods"}
+{"count": 1, "ids": [623, 58], "pos": "np", "rank": 0.003095442177598405, "text": "novel way"}
+{"count": 1, "ids": [422], "pos": "nn", "rank": 0.003074713470078168, "text": "detection"}
+{"count": 1, "ids": [481], "pos": "np", "rank": 0.0030462662760038393, "text": "layer"}
+{"count": 1, "ids": [515, 407, 408], "pos": "np", "rank": 0.0030379146191555424, "text": "hinton et al"}
+{"count": 1, "ids": [193, 512, 347], "pos": "np", "rank": 0.0030317720626630612, "text": "unsupervised pre-training methods"}
+{"count": 3, "ids": [496], "pos": "nn", "rank": 0.003025011872747422, "text": "classifier"}
+{"count": 1, "ids": [667, 668], "pos": "np", "rank": 0.0030021453903503695, "text": "transposed versions"}
+{"count": 1, "ids": [415], "pos": "np", "rank": 0.00297454918577037, "text": "performance"}
+{"count": 1, "ids": [413, 491], "pos": "np", "rank": 0.0029125481095650333, "text": "convnet activation"}
+{"count": 3, "ids": [238], "pos": "nn", "rank": 0.0028836216558865346, "text": "dataset"}
+{"count": 1, "ids": [46, 238], "pos": "np", "rank": 0.0028836216558865346, "text": "other datasets"}
+{"count": 1, "ids": [554, 555, 556], "pos": "np", "rank": 0.002820392458791587, "text": "simple quadratic approximation"}
+{"count": 1, "ids": [454, 201], "pos": "np", "rank": 0.0028132905357413363, "text": "better models"}
+{"count": 5, "ids": [492], "pos": "vbn", "rank": 0.0027768401477135, "text": "pixel"}
+{"count": 1, "ids": [75, 492], "pos": "np", "rank": 0.0027768401477135, "text": "image pixels"}
+{"count": 1, "ids": [487], "pos": "np", "rank": 0.0027620193216078464, "text": "network"}
+{"count": 1, "ids": [164], "pos": "np", "rank": 0.0027306548579586368, "text": "training"}
+{"count": 1, "ids": [518, 470], "pos": "np", "rank": 0.0027057322596906854, "text": "concurrent work"}
+{"count": 1, "ids": [572], "pos": "np", "rank": 0.002653667977410186, "text": "color"}
+{"count": 1, "ids": [436], "pos": "nn", "rank": 0.0026430645537845717, "text": "benchmark"}
+{"count": 1, "ids": [595, 596, 513, 463], "pos": "np", "rank": 0.002615092724958546, "text": "lo- cal contrast operation"}
+{"count": 1, "ids": [484, 169], "pos": "np", "rank": 0.002607083397787739, "text": "potential problems"}
+{"count": 2, "ids": [519, 407, 408], "pos": "np", "rank": 0.002531595515962952, "text": "donahue et al"}
+{"count": 2, "ids": [83], "pos": "nns", "rank": 0.0025272487905202722, "text": "results"}
+{"count": 1, "ids": [512], "pos": "np", "rank": 0.0024975040363556223, "text": "pre-training"}
+{"count": 1, "ids": [438, 439], "pos": "np", "rank": 0.0024503026113675847, "text": "error rate"}
+{"count": 1, "ids": [632], "pos": "np", "rank": 0.002435437550525492, "text": "capacity"}
+{"count": 1, "ids": [431], "pos": "np", "rank": 0.0024137525457300873, "text": "norb"}
+{"count": 4, "ids": [201], "pos": "np", "rank": 0.0023444087797844467, "text": "model"}
+{"count": 1, "ids": [504, 502], "pos": "np", "rank": 0.0023132662661726933, "text": "different architectures"}
+{"count": 2, "ids": [525], "pos": "np", "rank": 0.0023114856012171206, "text": "1st"}
+{"count": 1, "ids": [579, 504], "pos": "np", "rank": 0.002307843200428387, "text": "c different"}
+{"count": 2, "ids": [650, 672], "pos": "np", "rank": 0.00230452591728533, "text": "switch settings"}
+{"count": 1, "ids": [46, 491], "pos": "np", "rank": 0.0022943653279768926, "text": "other activations"}
+{"count": 1, "ids": [548, 0, 549], "pos": "np", "rank": 0.002269269376220373, "text": "berkes & wiskott"}
+{"count": 1, "ids": [653, 402], "pos": "np", "rank": 0.0022424778340103435, "text": "appropriate locations"}
+{"count": 3, "ids": [497], "pos": "nn", "rank": 0.0022278644489376574, "text": "output"}
+{"count": 1, "ids": [506], "pos": "np", "rank": 0.00218737412568908, "text": "ones"}
+{"count": 4, "ids": [650], "pos": "nn", "rank": 0.002181119770925329, "text": "switch"}
+{"count": 1, "ids": [545, 407, 408], "pos": "np", "rank": 0.0021699390136825304, "text": "le et al"}
+{"count": 2, "ids": [406], "pos": "np", "rank": 0.0021661569537814447, "text": "lecun"}
+{"count": 1, "ids": [418], "pos": "nn", "rank": 0.0021528964072678723, "text": "hand-written"}
+{"count": 4, "ids": [433], "pos": "np", "rank": 0.0021358878898613772, "text": "krizhevsky"}
+{"count": 8, "ids": [92], "pos": "vb", "rank": 0.0021128859602529038, "text": "show"}
+{"count": 2, "ids": [523], "pos": "nn", "rank": 0.002095054998189351, "text": "practice"}
+{"count": 1, "ids": [421], "pos": "vb", "rank": 0.0020727408700935332, "text": "face"}
+{"count": 2, "ids": [614], "pos": "np", "rank": 0.002027994091381517, "text": "back-"}
+{"count": 1, "ids": [193, 159], "pos": "np", "rank": 0.0020275132124368636, "text": "unsupervised learning"}
+{"count": 1, "ids": [200, 681], "pos": "np", "rank": 0.0020111203773848746, "text": "generative process"}
+{"count": 1, "ids": [637, 638], "pos": "np", "rank": 0.0019819078708367293, "text": "continuous path"}
+{"count": 4, "ids": [586], "pos": "vbn", "rank": 0.0019691075600912758, "text": "rectified"}
+{"count": 2, "ids": [609], "pos": "nn", "rank": 0.001967584186004625, "text": "loss"}
+{"count": 4, "ids": [463], "pos": "nn", "rank": 0.00195554444205532, "text": "operation"}
+{"count": 1, "ids": [0, 0, 440], "pos": "np", "rank": 0.001944359609287996, "text": "16.4%,compared"}
+{"count": 1, "ids": [674, 491], "pos": "np", "rank": 0.0019119711066474102, "text": "single activation"}
+{"count": 1, "ids": [600, 407, 408], "pos": "np", "rank": 0.001898696636972214, "text": "jarrett et al"}
+{"count": 2, "ids": [306], "pos": "vbn", "rank": 0.0018985255107809545, "text": "weighted"}
+{"count": 1, "ids": [652], "pos": "np", "rank": 0.0018889200508487194, "text": "reconstruction"}
+{"count": 2, "ids": [461], "pos": "nn", "rank": 0.001888486637508808, "text": "insight"}
+{"count": 1, "ids": [663], "pos": "np", "rank": 0.001877230638491969, "text": "signal"}
+{"count": 1, "ids": [576, 577, 578], "pos": "np", "rank": 0.001877230638491969, "text": "probability vector y\u02c6"}
+{"count": 3, "ids": [611], "pos": "nns", "rank": 0.001862169792418912, "text": "parameters"}
+{"count": 2, "ids": [511], "pos": "nn", "rank": 0.0018515612358322856, "text": "softmax"}
+{"count": 1, "ids": [498], "pos": "vbg", "rank": 0.0018443166972105165, "text": "occluding"}
+{"count": 1, "ids": [557, 558], "pos": "np", "rank": 0.0018281939151973989, "text": "pat- terns"}
+{"count": 3, "ids": [477], "pos": "nn", "rank": 0.0018181663473785562, "text": "stimulus"}
+{"count": 1, "ids": [532, 477], "pos": "np", "rank": 0.0018181663473785562, "text": "optimal stimulus"}
+{"count": 1, "ids": [665], "pos": "vb", "rank": 0.00181739201450642, "text": "convolve"}
+{"count": 1, "ids": [494, 495], "pos": "np", "rank": 0.0018158043271934816, "text": "sensitivity analysis"}
+{"count": 4, "ids": [153], "pos": "vbn", "rank": 0.001813858605091014, "text": "trained"}
+{"count": 1, "ids": [612], "pos": "nns", "rank": 0.0018100379144351756, "text": "matrices"}
+{"count": 1, "ids": [678], "pos": "nn", "rank": 0.001796687026025522, "text": "contribution"}
+{"count": 1, "ids": [419], "pos": "nn", "rank": 0.0017937711915670992, "text": "digit"}
+{"count": 1, "ids": [671], "pos": "vbg", "rank": 0.0017768479858401233, "text": "flipping"}
+{"count": 3, "ids": [476], "pos": "vbp", "rank": 0.001767793884969522, "text": "reveal"}
+{"count": 1, "ids": [457], "pos": "np", "rank": 0.001756105237727612, "text": "dropout"}
+{"count": 1, "ids": [677], "pos": "nn", "rank": 0.001746846942138303, "text": "piece"}
+{"count": 1, "ids": [432], "pos": "np", "rank": 0.0017380967040311604, "text": "cifar-10"}
+{"count": 1, "ids": [104], "pos": "nn", "rank": 0.0017375741519237119, "text": "top"}
+{"count": 2, "ids": [562], "pos": "nn", "rank": 0.001720363502499675, "text": "patch"}
+{"count": 1, "ids": [616], "pos": "nn", "rank": 0.0017178586196560735, "text": "derivative"}
+{"count": 1, "ids": [411], "pos": "nnp", "rank": 0.0017046835350934958, "text": "convolutional"}
+{"count": 1, "ids": [507], "pos": "vbp", "rank": 0.0016956334613948006, "text": "outperform"}
+{"count": 1, "ids": [112], "pos": "vbg", "rank": 0.0016955682526710336, "text": "according"}
+{"count": 2, "ids": [298], "pos": "nns", "rank": 0.001676255463833068, "text": "variables"}
+{"count": 2, "ids": [535], "pos": "nn", "rank": 0.0016711475159820928, "text": "descent"}
+{"count": 1, "ids": [619, 534, 535], "pos": "np", "rank": 0.0016711475159820928, "text": "stochastic gradient descent"}
+{"count": 2, "ids": [148], "pos": "vbz", "rank": 0.0016611390239686834, "text": "does"}
+{"count": 1, "ids": [473], "pos": "nn", "rank": 0.0016607216634343589, "text": "trial-and-error"}
+{"count": 1, "ids": [541], "pos": "nns", "rank": 0.0016363812626920555, "text": "variances"}
+{"count": 3, "ids": [551], "pos": "nns", "rank": 0.0016238491966451393, "text": "responses"}
+{"count": 2, "ids": [587], "pos": "nn", "rank": 0.0016134246687768436, "text": "function"}
+{"count": 2, "ids": [599], "pos": "nn", "rank": 0.0016072877414003448, "text": "tion"}
+{"count": 1, "ids": [272], "pos": "np", "rank": 0.0016038918873271387, "text": "examples"}
+{"count": 2, "ids": [489], "pos": "np", "rank": 0.0015954024912819087, "text": "zeiler"}
+{"count": 2, "ids": [339], "pos": "nnp", "rank": 0.0015947500810424213, "text": "y"}
+{"count": 1, "ids": [594], "pos": "nns", "rank": 0.00156673418453033, "text": "neighborhoods"}
+{"count": 2, "ids": [508, 509], "pos": "np", "rank": 0.0015660099748568445, "text": "generalization ability"}
+{"count": 3, "ids": [58], "pos": "nn", "rank": 0.0015477210887992025, "text": "way"}
+{"count": 2, "ids": [389], "pos": "vbn", "rank": 0.0015456163743206202, "text": "computed"}
+{"count": 1, "ids": [515], "pos": "nnp", "rank": 0.001542361885793199, "text": "hinton"}
+{"count": 1, "ids": [441], "pos": "np", "rank": 0.001538431372419251, "text": "2nd"}
+{"count": 2, "ids": [534], "pos": "nn", "rank": 0.001520919943192766, "text": "gradient"}
+{"count": 2, "ids": [347], "pos": "nns", "rank": 0.0015158860313315306, "text": "methods"}
+{"count": 1, "ids": [524, 347], "pos": "np", "rank": 0.0015158860313315306, "text": "limited methods"}
+{"count": 1, "ids": [682], "pos": "vbn", "rank": 0.0015105980345300881, "text": "involved"}
+{"count": 1, "ids": [668], "pos": "nns", "rank": 0.0015010726951751848, "text": "versions"}
+{"count": 1, "ids": [641], "pos": "vb", "rank": 0.0014915112239320268, "text": "reconstruct"}
+{"count": 1, "ids": [669], "pos": "vbd", "rank": 0.0014915112239320268, "text": "applied"}
+{"count": 1, "ids": [649], "pos": "np", "rank": 0.001480264775667483, "text": "region"}
+{"count": 2, "ids": [475, 65], "pos": "np", "rank": 0.0014795312057801313, "text": "visualization technique"}
+{"count": 1, "ids": [312], "pos": "vbd", "rank": 0.0014704284175727374, "text": "caused"}
+{"count": 1, "ids": [642], "pos": "np", "rank": 0.0014678147918530799, "text": "rise"}
+{"count": 1, "ids": [326], "pos": "vbg", "rank": 0.0014618310091165851, "text": "indicating"}
+{"count": 1, "ids": [574], "pos": "nnp", "rank": 0.0014564924560517825, "text": "xi"}
+{"count": 1, "ids": [500], "pos": "np", "rank": 0.0014512000276064474, "text": "scene"}
+{"count": 1, "ids": [423, 424], "pos": "np", "rank": 0.0014459537507760323, "text": "several papers"}
+{"count": 1, "ids": [449, 450, 451], "pos": "np", "rank": 0.0014459537507760323, "text": "powerful gpu implementations"}
+{"count": 2, "ids": [622], "pos": "vbn", "rank": 0.001417877449129384, "text": "presented"}
+{"count": 2, "ids": [486], "pos": "nnp", "rank": 0.001411721971436795, "text": "deconvolutional"}
+{"count": 1, "ids": [556], "pos": "nn", "rank": 0.0014101962293957934, "text": "approximation"}
+{"count": 1, "ids": [644], "pos": "vbn", "rank": 0.0014025430515169693, "text": "reached"}
+{"count": 1, "ids": [514], "pos": "vbn", "rank": 0.001395783909568367, "text": "popularized"}
+{"count": 1, "ids": [675], "pos": "vbz", "rank": 0.001384140905576042, "text": "resembles"}
+{"count": 1, "ids": [631], "pos": "nn", "rank": 0.0013712566059408207, "text": "opposite"}
+{"count": 1, "ids": [573], "pos": "nn", "rank": 0.0013705886445961142, "text": "2d"}
+{"count": 1, "ids": [537, 538], "pos": "np", "rank": 0.0013606998128191737, "text": "careful initialization"}
+{"count": 1, "ids": [103], "pos": "nn", "rank": 0.001359413927149788, "text": "intuition"}
+{"count": 2, "ids": [378], "pos": "vb", "rank": 0.0013561553759784194, "text": "see"}
+{"count": 1, "ids": [470], "pos": "np", "rank": 0.0013528661298453427, "text": "work"}
+{"count": 2, "ids": [529], "pos": "vbg", "rank": 0.0013220847084123338, "text": "interpreting"}
+{"count": 1, "ids": [61], "pos": "np", "rank": 0.0013173161402245507, "text": "progress"}
+{"count": 1, "ids": [465, 466], "pos": "np", "rank": 0.0013173161402245507, "text": "scientific standpoint"}
+{"count": 1, "ids": [468, 469], "pos": "np", "rank": 0.0013173161402245507, "text": "clear understanding"}
+{"count": 1, "ids": [588], "pos": "nnp", "rank": 0.001311439964291803, "text": "relu(x"}
+{"count": 3, "ids": [513], "pos": "nn", "rank": 0.001307546362479273, "text": "contrast"}
+{"count": 1, "ids": [659], "pos": "vbg", "rank": 0.0013040003016022413, "text": "ensuring"}
+{"count": 1, "ids": [169], "pos": "np", "rank": 0.0013035416988938695, "text": "problem"}
+{"count": 1, "ids": [536], "pos": "vb", "rank": 0.0012919764085554146, "text": "maximize"}
+{"count": 1, "ids": [654], "pos": "vbg", "rank": 0.001258952741001891, "text": "preserving"}
+{"count": 2, "ids": [410], "pos": "np", "rank": 0.0012540133034928914, "text": "\u2019s"}
+{"count": 1, "ids": [156], "pos": "vbz", "rank": 0.0012466504985781304, "text": "means"}
+{"count": 1, "ids": [439], "pos": "nn", "rank": 0.0012251513056837924, "text": "rate"}
+{"count": 1, "ids": [1, 379], "pos": "np", "rank": 0.0012238147630754485, "text": "more details"}
+{"count": 2, "ids": [434], "pos": "vbg", "rank": 0.0011957677975095366, "text": "recording"}
+{"count": 3, "ids": [325], "pos": "vbn", "rank": 0.0011898970133514466, "text": "proposed"}
+{"count": 2, "ids": [192], "pos": "vbd", "rank": 0.0011870514436161915, "text": "supervised"}
+{"count": 1, "ids": [228], "pos": "vbg", "rank": 0.0011862470842969436, "text": "making"}
+{"count": 1, "ids": [464], "pos": "nn", "rank": 0.0011808534895371317, "text": "behavior"}
+{"count": 1, "ids": [510], "pos": "vbg", "rank": 0.0011730550368379189, "text": "retraining"}
+{"count": 2, "ids": [519], "pos": "np", "rank": 0.0011720405653082883, "text": "donahue"}
+{"count": 1, "ids": [604], "pos": "nns", "rank": 0.0011676045730217267, "text": "experiments"}
+{"count": 1, "ids": [629], "pos": "nns", "rank": 0.0011603072727569494, "text": "components"}
+{"count": 2, "ids": [502], "pos": "nns", "rank": 0.0011566331330863466, "text": "architectures"}
+{"count": 1, "ids": [579], "pos": "nnp", "rank": 0.0011539216002141935, "text": "c"}
+{"count": 2, "ids": [635], "pos": "vbn", "rank": 0.0011530962932996885, "text": "attached"}
+{"count": 2, "ids": [672], "pos": "nns", "rank": 0.001152262958642665, "text": "settings"}
+{"count": 2, "ids": [151], "pos": "vbn", "rank": 0.001150072254742177, "text": "learned"}
+{"count": 1, "ids": [646, 647], "pos": "np", "rank": 0.0011433948649928946, "text": "proximate inverse"}
+{"count": 1, "ids": [516], "pos": "np", "rank": 0.0011372400762930499, "text": "bengio"}
+{"count": 1, "ids": [549], "pos": "nnp", "rank": 0.0011346346881101865, "text": "wiskott"}
+{"count": 1, "ids": [559], "pos": "vbp", "rank": 0.0011325244377455865, "text": "activate"}
+{"count": 1, "ids": [478], "pos": "vb", "rank": 0.0011297052811921923, "text": "excite"}
+{"count": 1, "ids": [472], "pos": "vbn", "rank": 0.0011235460916253113, "text": "reduced"}
+{"count": 2, "ids": [402], "pos": "nns", "rank": 0.0011212389170051718, "text": "locations"}
+{"count": 4, "ids": [493], "pos": "vbg", "rank": 0.0011098536925550195, "text": "performing"}
+{"count": 1, "ids": [456], "pos": "nns", "rank": 0.0011028533232702717, "text": "strategies"}
+{"count": 1, "ids": [615], "pos": "vbg", "rank": 0.0010952618355979903, "text": "propagating"}
+{"count": 1, "ids": [568], "pos": "vbp", "rank": 0.001087101125603238, "text": "stimulate"}
+{"count": 1, "ids": [545], "pos": "nnp", "rank": 0.0010778405277416636, "text": "le"}
+{"count": 1, "ids": [605], "pos": "np", "rank": 0.0010358326286637135, "text": "yi"}
+{"count": 3, "ids": [503], "pos": "vbn", "rank": 0.0010149626519097836, "text": "explored"}
+{"count": 1, "ids": [450], "pos": "np", "rank": 0.0010146768630600956, "text": "gpu"}
+{"count": 1, "ids": [0, 35, 97], "pos": "np", "rank": 0.0010146768630600956, "text": "the last year"}
+{"count": 2, "ids": [159], "pos": "nn", "rank": 0.0010137566062184318, "text": "learning"}
+{"count": 1, "ids": [681], "pos": "nn", "rank": 0.0010055601886924373, "text": "process"}
+{"count": 1, "ids": [581], "pos": "vbz", "rank": 0.0010033563420266429, "text": "consists"}
+{"count": 1, "ids": [613], "pos": "nns", "rank": 0.0010033563420266429, "text": "biases"}
+{"count": 1, "ids": [636], "pos": "vbn", "rank": 0.0010033563420266429, "text": "illustrated"}
+{"count": 1, "ids": [670], "pos": "nn", "rank": 0.0010033563420266429, "text": "beneath"}
+{"count": 1, "ids": [46], "pos": "nns", "rank": 0.0010004330509468852, "text": "others"}
+{"count": 1, "ids": [638], "pos": "nn", "rank": 0.0009909539354183647, "text": "path"}
+{"count": 1, "ids": [504], "pos": "nn", "rank": 0.0009902469499903765, "text": "different"}
+{"count": 1, "ids": [550], "pos": "np", "rank": 0.0009882432856890154, "text": "hessian"}
+{"count": 1, "ids": [119], "pos": "vbn", "rank": 0.000979759991023796, "text": "chosen"}
+{"count": 2, "ids": [440], "pos": "vb", "rank": 0.000972179804643998, "text": "compare"}
+{"count": 1, "ids": [341], "pos": "nnp", "rank": 0.000971542501700692, "text": "x"}
+{"count": 1, "ids": [444], "pos": "vbn", "rank": 0.0009707360451945293, "text": "renewed"}
+{"count": 1, "ids": [597], "pos": "vbz", "rank": 0.0009663450544922706, "text": "normalizes"}
+{"count": 1, "ids": [505], "pos": "vbg", "rank": 0.0009643709733519524, "text": "discovering"}
+{"count": 1, "ids": [680], "pos": "nns", "rank": 0.0009585170799567628, "text": "samples"}
+{"count": 3, "ids": [448], "pos": "nn", "rank": 0.0009523300270856219, "text": "label"}
+{"count": 2, "ids": [87], "pos": "vb", "rank": 0.0009477962256782827, "text": "place"}
+{"count": 1, "ids": [177], "pos": "vbn", "rank": 0.0009473592271697628, "text": "generated"}
+{"count": 1, "ids": [578], "pos": "nn", "rank": 0.0009386153192459845, "text": "y\u02c6"}
+{"count": 1, "ids": [412], "pos": "nnp", "rank": 0.0009314923855489202, "text": "networks"}
+{"count": 1, "ids": [423, 442], "pos": "np", "rank": 0.0009169008683926915, "text": "several factors"}
+{"count": 1, "ids": [482], "pos": "nn", "rank": 0.000915933291215238, "text": "evolution"}
+{"count": 1, "ids": [548], "pos": "nnp", "rank": 0.000915933291215238, "text": "berkes"}
+{"count": 1, "ids": [558], "pos": "nns", "rank": 0.0009140969575986994, "text": "terns"}
+{"count": 1, "ids": [617], "pos": "nn", "rank": 0.0009134899170164956, "text": "respect"}
+{"count": 1, "ids": [495], "pos": "nn", "rank": 0.0009079021635967408, "text": "analysis"}
+{"count": 2, "ids": [437], "pos": "vbp", "rank": 0.0009034071843047251, "text": "achieve"}
+{"count": 1, "ids": [627], "pos": "vbn", "rank": 0.0008945087173587996, "text": "thought"}
+{"count": 3, "ids": [645], "pos": "vbn", "rank": 0.0008910902989435805, "text": "obtained"}
+{"count": 2, "ids": [501], "pos": "vb", "rank": 0.0008852588508903314, "text": "start"}
+{"count": 1, "ids": [485], "pos": "nn", "rank": 0.0008753723329261527, "text": "multi-layered"}
+{"count": 2, "ids": [224], "pos": "nns", "rank": 0.0008697351328654679, "text": "parts"}
+{"count": 1, "ids": [618], "pos": "vbg", "rank": 0.0008588853775629388, "text": "updating"}
+{"count": 1, "ids": [438], "pos": "nn", "rank": 0.0008417449124563052, "text": "error"}
+{"count": 1, "ids": [37], "pos": "vbg", "rank": 0.0008329243936953209, "text": "beating"}
+{"count": 1, "ids": [648], "pos": "nn", "rank": 0.0008325353677953522, "text": "maxima"}
+{"count": 1, "ids": [483], "pos": "vb", "rank": 0.000820242832939497, "text": "diagnose"}
+{"count": 2, "ids": [12], "pos": "vbp", "rank": 0.0008169630967568035, "text": "have"}
+{"count": 1, "ids": [521], "pos": "vb", "rank": 0.0008166373976201719, "text": "gain"}
+{"count": 1, "ids": [667], "pos": "vbn", "rank": 0.0008113799433112982, "text": "transposed"}
+{"count": 2, "ids": [509], "pos": "nn", "rank": 0.0007830049874284222, "text": "ability"}
+{"count": 1, "ids": [455], "pos": "nn", "rank": 0.0007739011987534717, "text": "regularization"}
+{"count": 1, "ids": [310], "pos": "nn", "rank": 0.0007685618704127232, "text": "interest"}
+{"count": 1, "ids": [624], "pos": "nn", "rank": 0.0007527092187853967, "text": "pattern"}
+{"count": 2, "ids": [204], "pos": "vb", "rank": 0.0007448940810383954, "text": "demonstrate"}
+{"count": 2, "ids": [65], "pos": "nn", "rank": 0.0007397656028900656, "text": "technique"}
+{"count": 1, "ids": [539], "pos": "nn", "rank": 0.0007339073959265399, "text": "information"}
+{"count": 1, "ids": [451], "pos": "nns", "rank": 0.0007229768753880162, "text": "implementations"}
+{"count": 1, "ids": [429], "pos": "np", "rank": 0.0007120375858956398, "text": "ciresan"}
+{"count": 1, "ids": [531], "pos": "np", "rank": 0.0007120375858956398, "text": "erhan"}
+{"count": 1, "ids": [600], "pos": "np", "rank": 0.0007120375858956398, "text": "jarrett"}
+{"count": 1, "ids": [0, 409, 0], "pos": "np", "rank": 0.0007120375858956398, "text": "the early 1990"}
+{"count": 1, "ids": [475], "pos": "np", "rank": 0.0007063318462337311, "text": "visualizations"}
+{"count": 1, "ids": [338], "pos": "nn", "rank": 0.0007056636858196597, "text": "form"}
+{"count": 2, "ids": [528], "pos": "nn", "rank": 0.0007056636858196597, "text": "case"}
+{"count": 1, "ids": [553], "pos": "vbn", "rank": 0.0007056636858196597, "text": "captured"}
+{"count": 1, "ids": [565], "pos": "nns", "rank": 0.0007056636858196597, "text": "crops"}
+{"count": 1, "ids": [643], "pos": "vbn", "rank": 0.0007056636858196597, "text": "repeated"}
+{"count": 1, "ids": [561], "pos": "nn", "rank": 0.0006882292268020684, "text": "tify"}
+{"count": 1, "ids": [538], "pos": "nn", "rank": 0.0006803499064095868, "text": "initialization"}
+{"count": 3, "ids": [424], "pos": "nn", "rank": 0.0006740888780543142, "text": "paper"}
+{"count": 1, "ids": [447], "pos": "nns", "rank": 0.0006683003977539094, "text": "millions"}
+{"count": 1, "ids": [466], "pos": "nn", "rank": 0.0006586580701122754, "text": "standpoint"}
+{"count": 1, "ids": [469], "pos": "nn", "rank": 0.0006586580701122754, "text": "understanding"}
+{"count": 1, "ids": [301], "pos": "vb", "rank": 0.0006586580701122754, "text": "observe"}
+{"count": 1, "ids": [547], "pos": "nn", "rank": 0.0006586580701122754, "text": "idea"}
+{"count": 1, "ids": [656], "pos": "nn", "rank": 0.0006586580701122754, "text": "procedure"}
+{"count": 1, "ids": [294], "pos": "nn", "rank": 0.0006348768302964896, "text": "linear"}
+{"count": 2, "ids": [589], "pos": "nn", "rank": 0.0006348768302964896, "text": "iii"}
+{"count": 2, "ids": [330], "pos": "vbg", "rank": 0.0006338954680483507, "text": "providing"}
+{"count": 1, "ids": [590], "pos": "nn", "rank": 0.0006257758687772706, "text": "optionally"}
+{"count": 1, "ids": [322], "pos": "nns", "rank": 0.0006225349117721582, "text": "tools"}
+{"count": 1, "ids": [570], "pos": "nn", "rank": 0.0006225349117721582, "text": "standard"}
+{"count": 1, "ids": [379], "pos": "nns", "rank": 0.0006119073815377242, "text": "details"}
+{"count": 1, "ids": [471], "pos": "nn", "rank": 0.0005860202826541442, "text": "development"}
+{"count": 1, "ids": [560], "pos": "vbp", "rank": 0.0005798899461210188, "text": "iden-"}
+{"count": 1, "ids": [647], "pos": "nn", "rank": 0.0005716974324964473, "text": "inverse"}
+{"count": 2, "ids": [100], "pos": "vbz", "rank": 0.0005712745311117494, "text": "requires"}
+{"count": 1, "ids": [386], "pos": "nn", "rank": 0.0005356322227419102, "text": "view"}
+{"count": 1, "ids": [430], "pos": "nn", "rank": 0.0005143242845861469, "text": "state-of-the-art"}
+{"count": 1, "ids": [97], "pos": "nn", "rank": 0.0005073384315300478, "text": "year"}
+{"count": 1, "ids": [577], "pos": "nn", "rank": 0.0005073384315300478, "text": "vector"}
+{"count": 1, "ids": [35, 97], "pos": "np", "rank": 0.0005073384315300478, "text": "last year"}
+{"count": 2, "ids": [508], "pos": "nn", "rank": 0.0004997875073047304, "text": "generalization"}
+{"count": 1, "ids": [474], "pos": "vbp", "rank": 0.0004992757173443482, "text": "introduce"}
+{"count": 1, "ids": [571], "pos": "vbn", "rank": 0.0004992757173443482, "text": "defined"}
+{"count": 1, "ids": [557], "pos": "nn", "rank": 0.0004941216428445077, "text": "pat-"}
+{"count": 1, "ids": [494], "pos": "nn", "rank": 0.0004907588350101985, "text": "sensitivity"}
+{"count": 1, "ids": [626], "pos": "nn", "rank": 0.0004907588350101985, "text": "mapping"}
+{"count": 1, "ids": [442], "pos": "nns", "rank": 0.00045845043419634576, "text": "factors"}
+{"count": 1, "ids": [564], "pos": "vbp", "rank": 0.0004417870962243311, "text": "differ"}
+{"count": 1, "ids": [405], "pos": "nn", "rank": 0.0003560187929478199, "text": "introduction"}
+{"count": 1, "ids": [425], "pos": "vb", "rank": 0.0003560187929478199, "text": "deliver"}
+{"count": 1, "ids": [445], "pos": "nn", "rank": 0.0003560187929478199, "text": "availability"}
+{"count": 1, "ids": [226], "pos": "vbz", "rank": 0.0003560187929478199, "text": "allows"}
+{"count": 2, "ids": [490], "pos": "vbg", "rank": 0.0003560187929478199, "text": "projecting"}
+{"count": 1, "ids": [517], "pos": "nnp", "rank": 0.0003560187929478199, "text": "vincent"}
+{"count": 1, "ids": [520], "pos": "vbg", "rank": 0.0003560187929478199, "text": "visualizing"}
+{"count": 1, "ids": [252], "pos": "vbp", "rank": 0.0003560187929478199, "text": "find"}
+{"count": 1, "ids": [542], "pos": "vbn", "rank": 0.0003560187929478199, "text": "motivated"}
+{"count": 1, "ids": [546], "pos": "vbg", "rank": 0.0003560187929478199, "text": "extending"}
+{"count": 1, "ids": [189], "pos": "nn", "rank": 0.0003560187929478199, "text": "approach"}
+{"count": 1, "ids": [566], "pos": "vb", "rank": 0.0003560187929478199, "text": "top-down"}
+{"count": 1, "ids": [575], "pos": "nn", "rank": 0.0003560187929478199, "text": "series"}
+{"count": 1, "ids": [576], "pos": "nn", "rank": 0.0003560187929478199, "text": "probability"}
+{"count": 1, "ids": [582], "pos": "nn", "rank": 0.0003560187929478199, "text": "convolution"}
+{"count": 1, "ids": [585], "pos": "vbg", "rank": 0.0003560187929478199, "text": "ing"}
+{"count": 1, "ids": [595], "pos": "nn", "rank": 0.0003560187929478199, "text": "lo-"}
+{"count": 1, "ids": [608], "pos": "nn", "rank": 0.0003560187929478199, "text": "cross-entropy"}
+{"count": 1, "ids": [620], "pos": "vbg", "rank": 0.0003560187929478199, "text": "understanding"}
+{"count": 2, "ids": [634], "pos": "vb", "rank": 0.0003560187929478199, "text": "examine"}
+{"count": 1, "ids": [639], "pos": "vb", "rank": 0.0003560187929478199, "text": "pass"}
+{"count": 1, "ids": [655], "pos": "nn", "rank": 0.0003560187929478199, "text": "illustration"}
+{"count": 1, "ids": [657], "pos": "nn", "rank": 0.0003560187929478199, "text": "rectification"}
+{"count": 1, "ids": [661], "pos": "vbp", "rank": 0.0003560187929478199, "text": "pass"}
+{"count": 1, "ids": [664], "pos": "nn", "rank": 0.0003560187929478199, "text": "filtering"}
+{"count": 1, "ids": [283], "pos": "vb", "rank": 0.0003560187929478199, "text": "note"}
+{"count": 18, "ids": [0], "pos": "np", "rank": 0.0, "text": "2011"}
+{"count": 2, "ids": [0, 0], "pos": "np", "rank": 0.0, "text": "\n 1989"}

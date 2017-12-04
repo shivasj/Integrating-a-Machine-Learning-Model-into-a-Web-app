@@ -1,0 +1,201 @@
+{"count": 1, "ids": [426, 51], "pos": "np", "rank": 0.06335469188505126, "text": "adsorption were"}
+{"count": 11, "ids": [342, 347], "pos": "np", "rank": 0.042133958810175766, "text": "news stories"}
+{"count": 23, "ids": [51], "pos": "vbz", "rank": 0.03167734594252563, "text": "is"}
+{"count": 1, "ids": [267], "pos": "np", "rank": 0.027426777420091898, "text": "labels"}
+{"count": 1, "ids": [176, 342, 343, 344], "pos": "np", "rank": 0.02691245544843007, "text": "live news aggregation sites"}
+{"count": 1, "ids": [347], "pos": "np", "rank": 0.021066979405087883, "text": "stories"}
+{"count": 1, "ids": [345], "pos": "np", "rank": 0.018139119129950802, "text": "topics"}
+{"count": 1, "ids": [356, 357], "pos": "np", "rank": 0.01583602612064671, "text": "time-based graphs"}
+{"count": 2, "ids": [337], "pos": "np", "rank": 0.015806586874396598, "text": "distribution"}
+{"count": 1, "ids": [366, 347], "pos": "np", "rank": 0.014044652936725256, "text": "single story"}
+{"count": 1, "ids": [164, 267], "pos": "np", "rank": 0.013713388710045949, "text": "training labels"}
+{"count": 15, "ids": [342], "pos": "nn", "rank": 0.013456227724215035, "text": "news"}
+{"count": 1, "ids": [26, 159], "pos": "np", "rank": 0.013296835805187151, "text": "machine learning"}
+{"count": 4, "ids": [267, 416], "pos": "np", "rank": 0.012539291818316348, "text": "label propagation"}
+{"count": 1, "ids": [64, 296, 240, 289, 11], "pos": "np", "rank": 0.012423793378826934, "text": "machine-learning based text classification systems"}
+{"count": 1, "ids": [377], "pos": "np", "rank": 0.011284046889603322, "text": "popularity"}
+{"count": 1, "ids": [154, 197], "pos": "np", "rank": 0.011195506693940305, "text": "new events"}
+{"count": 1, "ids": [426, 448], "pos": "np", "rank": 0.01112339767181643, "text": "adsorption baselines"}
+{"count": 1, "ids": [410, 411], "pos": "np", "rank": 0.010887144665656327, "text": "weak similarities"}
+{"count": 1, "ids": [0, 286, 359, 0, 353, 0, 97, 0, 347], "pos": "np", "rank": 0.010533489702543941, "text": "the previous day / month / year \u2019s stories"}
+{"count": 1, "ids": [296, 405], "pos": "np", "rank": 0.009982849326380945, "text": "based approaches"}
+{"count": 1, "ids": [382, 442, 443], "pos": "np", "rank": 0.009552381244432754, "text": "little ground truth"}
+{"count": 1, "ids": [375, 345], "pos": "np", "rank": 0.009069559564975401, "text": "older topics"}
+{"count": 1, "ids": [386, 342, 387], "pos": "np", "rank": 0.008970818482810023, "text": "automated news classifier"}
+{"count": 5, "ids": [179], "pos": "vbg", "rank": 0.008354984744406862, "text": "using"}
+{"count": 2, "ids": [65], "pos": "np", "rank": 0.008304850322030408, "text": "techniques"}
+{"count": 1, "ids": [353], "pos": "np", "rank": 0.008137127470320015, "text": "months"}
+{"count": 1, "ids": [289, 282], "pos": "np", "rank": 0.008070695048451343, "text": "classification tasks"}
+{"count": 7, "ids": [313], "pos": "vbz", "rank": 0.00804771444778737, "text": "presents"}
+{"count": 1, "ids": [420, 411, 357], "pos": "np", "rank": 0.007918013060323355, "text": "temporal similarity graph"}
+{"count": 5, "ids": [145], "pos": "nn", "rank": 0.007684364386268446, "text": "time"}
+{"count": 1, "ids": [418, 419, 168], "pos": "np", "rank": 0.007193329699871236, "text": "information retrieval applications"}
+{"count": 5, "ids": [12], "pos": "vb", "rank": 0.0069661387400342485, "text": "have"}
+{"count": 1, "ids": [0, 359], "pos": "np", "rank": 0.006879036696220904, "text": "eighty day"}
+{"count": 1, "ids": [342, 289], "pos": "np", "rank": 0.006728113862107517, "text": "news classification"}
+{"count": 3, "ids": [159], "pos": "nn", "rank": 0.006648417902593576, "text": "learning"}
+{"count": 2, "ids": [440], "pos": "np", "rank": 0.006600901747990916, "text": "min-hashes"}
+{"count": 2, "ids": [426], "pos": "np", "rank": 0.006319933436123725, "text": "adsorption"}
+{"count": 4, "ids": [416], "pos": "nn", "rank": 0.006269645909158174, "text": "propagation"}
+{"count": 4, "ids": [11], "pos": "nn", "rank": 0.006211896689413467, "text": "system"}
+{"count": 1, "ids": [429, 430, 11], "pos": "np", "rank": 0.006211896689413467, "text": "video recommendation system"}
+{"count": 1, "ids": [431], "pos": "np", "rank": 0.006126845972749969, "text": "youtube"}
+{"count": 2, "ids": [162], "pos": "np", "rank": 0.006072315594189094, "text": "data"}
+{"count": 1, "ids": [345, 305], "pos": "np", "rank": 0.006046373043316934, "text": "topic detection"}
+{"count": 1, "ids": [451, 83], "pos": "np", "rank": 0.005888879169293982, "text": "empirical results"}
+{"count": 1, "ids": [437, 438], "pos": "np", "rank": 0.005601894448037321, "text": "industrial settings"}
+{"count": 1, "ids": [154, 345], "pos": "np", "rank": 0.005597753346970153, "text": "new topic"}
+{"count": 2, "ids": [448], "pos": "nns", "rank": 0.005561698835908215, "text": "baselines"}
+{"count": 3, "ids": [411], "pos": "nns", "rank": 0.005443572332828163, "text": "similarities"}
+{"count": 3, "ids": [296], "pos": "vbn", "rank": 0.005434660129624734, "text": "based"}
+{"count": 1, "ids": [175], "pos": "nn", "rank": 0.005398352548281561, "text": "field"}
+{"count": 1, "ids": [398, 262], "pos": "np", "rank": 0.005381003789283768, "text": "related problem"}
+{"count": 1, "ids": [202, 357], "pos": "np", "rank": 0.005278675373548904, "text": "large graphs"}
+{"count": 1, "ids": [354, 260], "pos": "np", "rank": 0.005209472495722876, "text": "initial examples"}
+{"count": 2, "ids": [189, 97], "pos": "np", "rank": 0.005180658669078773, "text": "recent years"}
+{"count": 1, "ids": [173, 436], "pos": "np", "rank": 0.005016888379143759, "text": "data mining"}
+{"count": 3, "ids": [415], "pos": "np", "rank": 0.005013962579000818, "text": "min-hashing"}
+{"count": 1, "ids": [405], "pos": "np", "rank": 0.0049914246631904725, "text": "approach"}
+{"count": 1, "ids": [402, 281], "pos": "np", "rank": 0.0049148589312252395, "text": "preset categories"}
+{"count": 1, "ids": [196, 456], "pos": "np", "rank": 0.004878399874063596, "text": "future exploration"}
+{"count": 2, "ids": [286, 391], "pos": "np", "rank": 0.0048767027648840625, "text": "previous work"}
+{"count": 2, "ids": [427], "pos": "vb", "rank": 0.004859570989095726, "text": "establish"}
+{"count": 1, "ids": [425, 170], "pos": "np", "rank": 0.004776609002546062, "text": "basic algorithm"}
+{"count": 4, "ids": [289], "pos": "nn", "rank": 0.004764752575891185, "text": "classification"}
+{"count": 1, "ids": [362], "pos": "np", "rank": 0.004723127080462146, "text": "paper"}
+{"count": 4, "ids": [339], "pos": "vbn", "rank": 0.004695293896239917, "text": "drawn"}
+{"count": 2, "ids": [319], "pos": "vbn", "rank": 0.004660624168932795, "text": "collected"}
+{"count": 1, "ids": [399, 400], "pos": "np", "rank": 0.004652773393602173, "text": "immediate interest"}
+{"count": 1, "ids": [359, 360], "pos": "np", "rank": 0.004608623976918987, "text": "day period"}
+{"count": 1, "ids": [453, 203], "pos": "np", "rank": 0.004589752912072917, "text": "tiny amounts"}
+{"count": 1, "ids": [370, 360], "pos": "np", "rank": 0.004559414001185367, "text": "small periods"}
+{"count": 1, "ids": [380, 246], "pos": "np", "rank": 0.004537509842819585, "text": "severe challenges"}
+{"count": 1, "ids": [394, 345], "pos": "np", "rank": 0.004534779782487701, "text": "particular topic"}
+{"count": 1, "ids": [449, 450], "pos": "np", "rank": 0.004407614078896301, "text": "detailed description"}
+{"count": 1, "ids": [434, 435], "pos": "np", "rank": 0.004305441087856248, "text": "general applicability"}
+{"count": 1, "ids": [426, 170], "pos": "np", "rank": 0.004213288957415816, "text": "adsorption algorithm"}
+{"count": 1, "ids": [439], "pos": "nn", "rank": 0.004114318141489464, "text": "formulation"}
+{"count": 2, "ids": [282], "pos": "nn", "rank": 0.0040353475242256714, "text": "task"}
+{"count": 1, "ids": [0, 91], "pos": "np", "rank": 0.0039708496290041875, "text": "one week"}
+{"count": 1, "ids": [357], "pos": "np", "rank": 0.003959006530161678, "text": "graphs"}
+{"count": 3, "ids": [95], "pos": "vbn", "rank": 0.0038907596295341693, "text": "created"}
+{"count": 1, "ids": [417, 58], "pos": "np", "rank": 0.003869870423619445, "text": "novel way"}
+{"count": 1, "ids": [390], "pos": "np", "rank": 0.003839112482290136, "text": "tomorrow"}
+{"count": 1, "ids": [420, 411], "pos": "np", "rank": 0.003629048221885442, "text": "temporal similarities"}
+{"count": 3, "ids": [168], "pos": "nn", "rank": 0.003596664849935618, "text": "application"}
+{"count": 1, "ids": [392], "pos": "nn", "rank": 0.00358486460588736, "text": "tracking"}
+{"count": 3, "ids": [359], "pos": "nn", "rank": 0.003439518348110452, "text": "day"}
+{"count": 3, "ids": [344], "pos": "nn", "rank": 0.0034081087849235163, "text": "site"}
+{"count": 2, "ids": [393], "pos": "vbz", "rank": 0.0033673108492331596, "text": "follows"}
+{"count": 1, "ids": [361], "pos": "np", "rank": 0.003293789809294421, "text": "experiments"}
+{"count": 1, "ids": [286, 359], "pos": "np", "rank": 0.0032897947152450923, "text": "previous day"}
+{"count": 2, "ids": [26], "pos": "nn", "rank": 0.0032511995029281915, "text": "machine"}
+{"count": 1, "ids": [213], "pos": "vbg", "rank": 0.0032224578076371596, "text": "gaining"}
+{"count": 2, "ids": [358], "pos": "vbn", "rank": 0.0031847506165142616, "text": "published"}
+{"count": 2, "ids": [256, 335], "pos": "np", "rank": 0.003170727307164948, "text": "fundamental assumptions"}
+{"count": 1, "ids": [396], "pos": "vbn", "rank": 0.0031528844925471193, "text": "emerged"}
+{"count": 2, "ids": [270], "pos": "vbn", "rank": 0.003099902347154349, "text": "termed"}
+{"count": 1, "ids": [0, 126, 364, 359], "pos": "np", "rank": 0.003094111464462534, "text": "the first several days"}
+{"count": 1, "ids": [0, 385, 91], "pos": "np", "rank": 0.003094111464462534, "text": "the next week"}
+{"count": 1, "ids": [223], "pos": "nn", "rank": 0.0029685156640755243, "text": "performance"}
+{"count": 2, "ids": [83], "pos": "nns", "rank": 0.002944439584646991, "text": "results"}
+{"count": 1, "ids": [452, 83], "pos": "np", "rank": 0.002944439584646991, "text": "extensive results"}
+{"count": 1, "ids": [421], "pos": "vbz", "rank": 0.002830672257908286, "text": "appears"}
+{"count": 1, "ids": [438], "pos": "nns", "rank": 0.0028009472240186606, "text": "settings"}
+{"count": 1, "ids": [410, 418], "pos": "np", "rank": 0.002795683692544706, "text": "weak information"}
+{"count": 2, "ids": [418], "pos": "nn", "rank": 0.0027851980945418006, "text": "information"}
+{"count": 2, "ids": [262], "pos": "nn", "rank": 0.002690501894641884, "text": "problem"}
+{"count": 1, "ids": [422], "pos": "np", "rank": 0.002620654907070006, "text": "semi-"}
+{"count": 3, "ids": [260], "pos": "nn", "rank": 0.002604736247861438, "text": "example"}
+{"count": 2, "ids": [97], "pos": "nn", "rank": 0.0025903293345393864, "text": "year"}
+{"count": 1, "ids": [176], "pos": "vb", "rank": 0.002553186431672705, "text": "live"}
+{"count": 1, "ids": [76], "pos": "vb", "rank": 0.0025455533584711997, "text": "recognize"}
+{"count": 1, "ids": [455], "pos": "np", "rank": 0.002540138353728321, "text": "avenues"}
+{"count": 1, "ids": [436], "pos": "nn", "rank": 0.0025084441895718793, "text": "mining"}
+{"count": 1, "ids": [305], "pos": "nn", "rank": 0.002497311117861441, "text": "detection"}
+{"count": 1, "ids": [252], "pos": "nn", "rank": 0.002487669201401402, "text": "type"}
+{"count": 1, "ids": [281], "pos": "nns", "rank": 0.0024574294656126198, "text": "categories"}
+{"count": 2, "ids": [350], "pos": "vbg", "rank": 0.002452520888044613, "text": "attempting"}
+{"count": 1, "ids": [456], "pos": "nn", "rank": 0.002439199937031798, "text": "exploration"}
+{"count": 2, "ids": [391], "pos": "nn", "rank": 0.0024383513824420312, "text": "work"}
+{"count": 2, "ids": [336], "pos": "vbg", "rank": 0.0023993869982768144, "text": "underlying"}
+{"count": 2, "ids": [170], "pos": "nn", "rank": 0.002388304501273031, "text": "algorithm"}
+{"count": 1, "ids": [173], "pos": "nn", "rank": 0.002327355345727333, "text": "data"}
+{"count": 1, "ids": [400], "pos": "nn", "rank": 0.0023263866968010866, "text": "interest"}
+{"count": 1, "ids": [311], "pos": "np", "rank": 0.0023257366595052396, "text": "nature"}
+{"count": 2, "ids": [355], "pos": "vbg", "rank": 0.0023123901207762246, "text": "propagating"}
+{"count": 2, "ids": [360], "pos": "nns", "rank": 0.0023043119884594934, "text": "periods"}
+{"count": 1, "ids": [203], "pos": "nns", "rank": 0.0022948764560364585, "text": "amounts"}
+{"count": 2, "ids": [197], "pos": "nns", "rank": 0.002289917042262119, "text": "events"}
+{"count": 1, "ids": [153], "pos": "vbn", "rank": 0.0022839580171171705, "text": "trained"}
+{"count": 1, "ids": [246], "pos": "nns", "rank": 0.0022687549214097926, "text": "challenges"}
+{"count": 1, "ids": [414], "pos": "nn", "rank": 0.0022391873794416197, "text": "paradigm"}
+{"count": 1, "ids": [395], "pos": "vb", "rank": 0.002237588509266152, "text": "determine"}
+{"count": 1, "ids": [423, 424], "pos": "np", "rank": 0.002236503224851846, "text": "equivalent views"}
+{"count": 1, "ids": [374], "pos": "nn", "rank": 0.002236155929572273, "text": "press"}
+{"count": 1, "ids": [428], "pos": "vbn", "rank": 0.002207796455507116, "text": "employed"}
+{"count": 2, "ids": [191], "pos": "vbg", "rank": 0.002204719678548091, "text": "breaking"}
+{"count": 1, "ids": [450], "pos": "nn", "rank": 0.0022038070394481504, "text": "description"}
+{"count": 2, "ids": [368], "pos": "nn", "rank": 0.002191944482873378, "text": "vocabulary"}
+{"count": 2, "ids": [343], "pos": "nn", "rank": 0.0021754531939886424, "text": "aggregation"}
+{"count": 1, "ids": [435], "pos": "nn", "rank": 0.002152720543928124, "text": "applicability"}
+{"count": 1, "ids": [346], "pos": "vbn", "rank": 0.002110041893272846, "text": "discussed"}
+{"count": 2, "ids": [397], "pos": "vb", "rank": 0.0021079717275847305, "text": "address"}
+{"count": 1, "ids": [385, 250], "pos": "np", "rank": 0.0020856361532068293, "text": "next section"}
+{"count": 1, "ids": [443], "pos": "nn", "rank": 0.0020794537866354016, "text": "truth"}
+{"count": 2, "ids": [401], "pos": "vbz", "rank": 0.002071424052928308, "text": "gives"}
+{"count": 1, "ids": [351], "pos": "nns", "rank": 0.002004321229902661, "text": "transitions"}
+{"count": 2, "ids": [91], "pos": "nn", "rank": 0.0019854248145020938, "text": "week"}
+{"count": 2, "ids": [157], "pos": "vbg", "rank": 0.001970755617516109, "text": "changing"}
+{"count": 1, "ids": [369], "pos": "vbp", "rank": 0.001970755617516109, "text": "shift"}
+{"count": 1, "ids": [404], "pos": "vbz", "rank": 0.001970755617516109, "text": "necessitates"}
+{"count": 2, "ids": [378], "pos": "vbn", "rank": 0.001959238259394778, "text": "automated"}
+{"count": 1, "ids": [58], "pos": "nn", "rank": 0.0019349352118097226, "text": "way"}
+{"count": 1, "ids": [356], "pos": "nn", "rank": 0.0019282680573069492, "text": "time-based"}
+{"count": 1, "ids": [373], "pos": "nn", "rank": 0.001919556241145068, "text": "majority"}
+{"count": 1, "ids": [365], "pos": "nn", "rank": 0.0018718272702239757, "text": "gathering"}
+{"count": 1, "ids": [253], "pos": "vbn", "rank": 0.001867152203056216, "text": "supervised"}
+{"count": 2, "ids": [387], "pos": "nn", "rank": 0.0018401038478943386, "text": "classifier"}
+{"count": 1, "ids": [164], "pos": "nn", "rank": 0.001787970720030333, "text": "training"}
+{"count": 2, "ids": [338], "pos": "np", "rank": 0.0017227006067585108, "text": "labeled-text"}
+{"count": 1, "ids": [126, 364, 359], "pos": "np", "rank": 0.001719759174055226, "text": "first several days"}
+{"count": 1, "ids": [217], "pos": "vb", "rank": 0.001646771037900701, "text": "model"}
+{"count": 1, "ids": [430], "pos": "nn", "rank": 0.0016463700627846194, "text": "recommendation"}
+{"count": 1, "ids": [240], "pos": "nn", "rank": 0.0016455760276694543, "text": "text"}
+{"count": 1, "ids": [442], "pos": "nn", "rank": 0.0016201499775751705, "text": "ground"}
+{"count": 1, "ids": [335], "pos": "np", "rank": 0.001585363653582474, "text": "assumption"}
+{"count": 1, "ids": [372], "pos": "vb", "rank": 0.001547055732231267, "text": "dominate"}
+{"count": 1, "ids": [389], "pos": "vb", "rank": 0.001547055732231267, "text": "arise"}
+{"count": 1, "ids": [385, 91], "pos": "np", "rank": 0.001547055732231267, "text": "next week"}
+{"count": 1, "ids": [352], "pos": "vbn", "rank": 0.0015019179963047012, "text": "acquired"}
+{"count": 1, "ids": [87], "pos": "vbn", "rank": 0.0015019179963047012, "text": "placed"}
+{"count": 1, "ids": [419], "pos": "nn", "rank": 0.0013933516729012227, "text": "retrieval"}
+{"count": 1, "ids": [222], "pos": "vbg", "rank": 0.0013665713405269177, "text": "capturing"}
+{"count": 1, "ids": [388], "pos": "vbn", "rank": 0.0013446748766434693, "text": "encountered"}
+{"count": 1, "ids": [379], "pos": "nn", "rank": 0.0013307701929272746, "text": "news-classification"}
+{"count": 1, "ids": [433], "pos": "vbp", "rank": 0.001310327453535003, "text": "anticipate"}
+{"count": 1, "ids": [384], "pos": "nn", "rank": 0.0012633182075919777, "text": "subject"}
+{"count": 1, "ids": [408], "pos": "nn", "rank": 0.0012263090110951696, "text": "graph-based"}
+{"count": 1, "ids": [446], "pos": "nn", "rank": 0.0012263090110951696, "text": "series"}
+{"count": 1, "ids": [413], "pos": "vbz", "rank": 0.0012105027256126173, "text": "combines"}
+{"count": 1, "ids": [445], "pos": "vbz", "rank": 0.001169451989528479, "text": "describes"}
+{"count": 1, "ids": [429], "pos": "nn", "rank": 0.0011554912087408714, "text": "video"}
+{"count": 1, "ids": [349], "pos": "nn", "rank": 0.001118251612425923, "text": "phenomenon"}
+{"count": 1, "ids": [424], "pos": "nns", "rank": 0.001118251612425923, "text": "views"}
+{"count": 1, "ids": [188], "pos": "vb", "rank": 0.0010711489914021811, "text": "develop"}
+{"count": 5, "ids": [250], "pos": "nn", "rank": 0.0010428180766034146, "text": "section"}
+{"count": 1, "ids": [64], "pos": "nn", "rank": 0.0009574608585059386, "text": "machine-learning"}
+{"count": 1, "ids": [363], "pos": "vbp", "rank": 0.0008912447602776027, "text": "include"}
+{"count": 1, "ids": [219], "pos": "vbz", "rank": 0.0008912447602776027, "text": "offers"}
+{"count": 1, "ids": [454], "pos": "vbz", "rank": 0.0007310829072576524, "text": "concludes"}
+{"count": 2, "ids": [52], "pos": "nn", "rank": 0.0006044489943325879, "text": "set"}
+{"count": 2, "ids": [341], "pos": "nn", "rank": 0.0006044489943325879, "text": "text-to-be-labeled"}
+{"count": 1, "ids": [348], "pos": "vbg", "rank": 0.0006044489943325879, "text": "ignoring"}
+{"count": 1, "ids": [48], "pos": "vbp", "rank": 0.0006044489943325879, "text": "test"}
+{"count": 1, "ids": [367], "pos": "nn", "rank": 0.0006044489943325879, "text": "writing"}
+{"count": 1, "ids": [376], "pos": "vbp", "rank": 0.0006044489943325879, "text": "recede"}
+{"count": 1, "ids": [403], "pos": "nn", "rank": 0.0006044489943325879, "text": "volume"}
+{"count": 1, "ids": [406], "pos": "vb", "rank": 0.0006044489943325879, "text": "hold"}
+{"count": 1, "ids": [432], "pos": "nns", "rank": 0.0006044489943325879, "text": "aims"}
+{"count": 1, "ids": [441], "pos": "nn", "rank": 0.0006044489943325879, "text": "tool"}
+{"count": 1, "ids": [381], "pos": "np", "rank": 0.0, "text": "political\u2019"}

@@ -1,0 +1,101 @@
+<nav class="navbar navbar-default navbar-fixed-title hidden-print">
+    <div class="container navbar-title app-container">
+        <div class="row">
+            <div class="col-xs-2 col-md-4 page-title-left">
+                <a ng-click="textSummarizerCtrl.Back()" class="btn btn-left"><i class="fa fa-chevron-left fa-large" aria-hidden="true"></i></a>
+            </div>
+            <div class="col-md-4 hidden-xs"><div class="page-title">Text Summarization</div></div>
+            <div class="cols-xs-10 col-md-4 page-title-right">
+                <div class="btn-group">
+                    <a class="btn"><i class="fa fa-plus-circle fa-large" aria-hidden="true" ng-click="textSummarizerCtrl.AddNew()"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</nav>
+<div class="container">
+    <div class="row">&nbsp;</div>
+    <div ng-show="textSummarizerCtrl.index">
+        <div class="row">
+            <ul class="post-grid">
+                <li ng-repeat="cnt in textSummarizerCtrl.all_content" class="col-md-4" ng-class="{ 'reset-s' : $index%3==0 }" ng-click="textSummarizerCtrl.ViewContent(cnt)" >
+                    <div class="blog-container">
+                        <h4>{{cnt.content_title}}</h4>
+                        <p class="blog-post-summary" ng-bind-html="cnt.excerpts"></p>
+                    </div>
+
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div ng-show="textSummarizerCtrl.input">
+        <div class="well">
+            <form name="inputform">
+                <div class="row">
+                    <div class="col-lg-10">
+                        <div class="form-group">
+                            <label class="control-label">Title:</label>
+                            <input type="text" ng-model="textSummarizerCtrl.content.content_title" class="form-control" placeholder="Content Title" required>
+                        </div>
+                    </div>
+                    <div class="col-lg-2">
+                        <div class="form-group">
+                            <label class="control-label">Word Limit:</label>
+                            <input type="text" ng-model="textSummarizerCtrl.content.word_limit" class="form-control" required>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="form-group">
+                            <label class="control-label">Content:</label>
+                            <textarea class="form-control" rows="15" ng-model="textSummarizerCtrl.content.content_text" placeholder="Add content here...."></textarea>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">&nbsp;</div>
+                <div class="row">
+                    <div class="col-xs-12 text-center">
+                        <a class="btn btn-primary" ng-click="textSummarizerCtrl.Save()" ng-disabled="inputform.$invalid">Save</a>&nbsp;&nbsp;
+                        <a class="btn btn-default" ng-click="textSummarizerCtrl.Cancel()">Cancel</a>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+    <div ng-show="textSummarizerCtrl.output">
+        <div class="well">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="form-group">
+                        <label class="control-label">Excerpt:</label>
+                        <p class="content-output" ng-bind-html="textSummarizerCtrl.content.excerpts"></p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="form-group">
+                        <label class="control-label">Keywords:</label>
+                        <p class="content-output" ng-bind-html="textSummarizerCtrl.content.keywords"></p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="form-group">
+                        <label class="control-label">Original Content:</label>
+                        <p class="content-output" ng-bind-html="textSummarizerCtrl.content.content_text"></p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">&nbsp;</div>
+            <div class="row">
+                <div class="col-xs-12 text-center">
+                    <a class="btn btn-primary" ng-click="textSummarizerCtrl.EditContent()" >Edit</a>&nbsp;&nbsp;
+                    <a class="btn btn-default" ng-click="textSummarizerCtrl.Cancel()">Back</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,179 @@
+{"count": 1, "ids": [167, 168, 201], "pos": "np", "rank": 0.03460382549511078, "text": "text summarization model"}
+{"count": 2, "ids": [233], "pos": "np", "rank": 0.02580919360595454, "text": "headlines"}
+{"count": 1, "ids": [167, 168, 169], "pos": "np", "rank": 0.02334222835026144, "text": "text summarization problem"}
+{"count": 2, "ids": [238], "pos": "np", "rank": 0.022131113017554688, "text": "dataset"}
+{"count": 1, "ids": [234, 180], "pos": "np", "rank": 0.020267915081469887, "text": "news articles"}
+{"count": 17, "ids": [51], "pos": "vbg", "rank": 0.018226590190819285, "text": "being"}
+{"count": 1, "ids": [193, 194], "pos": "np", "rank": 0.0175296626376709, "text": "unsupervised algorithms"}
+{"count": 3, "ids": [201], "pos": "np", "rank": 0.01730191274755539, "text": "model"}
+{"count": 1, "ids": [174, 175], "pos": "np", "rank": 0.013742545066018463, "text": "short summaries"}
+{"count": 2, "ids": [245, 246], "pos": "np", "rank": 0.013046091636825215, "text": "github repository"}
+{"count": 1, "ids": [38, 233], "pos": "np", "rank": 0.01290459680297727, "text": "best headline"}
+{"count": 2, "ids": [235, 236, 237], "pos": "np", "rank": 0.012697883929570079, "text": "annotated english gigaword"}
+{"count": 4, "ids": [211], "pos": "np", "rank": 0.012303336156639108, "text": "tensorflow"}
+{"count": 1, "ids": [265], "pos": "np", "rank": 0.01185572736253401, "text": "file"}
+{"count": 9, "ids": [167], "pos": "nns", "rank": 0.01167111417513072, "text": "texts"}
+{"count": 2, "ids": [167, 168], "pos": "np", "rank": 0.01167111417513072, "text": "text summarization"}
+{"count": 1, "ids": [221, 222], "pos": "np", "rank": 0.011633614323847838, "text": "blog post"}
+{"count": 1, "ids": [45, 170, 171], "pos": "np", "rank": 0.011575291041682825, "text": "many useful applications"}
+{"count": 1, "ids": [247, 201], "pos": "np", "rank": 0.01153460849837026, "text": "core model"}
+{"count": 6, "ids": [225], "pos": "vbn", "rank": 0.011219381718534054, "text": "used"}
+{"count": 2, "ids": [262, 238], "pos": "np", "rank": 0.011065556508777344, "text": "toy dataset"}
+{"count": 4, "ids": [177], "pos": "vbn", "rank": 0.010972620156968121, "text": "generated"}
+{"count": 1, "ids": [46], "pos": "np", "rank": 0.010585829347461499, "text": "others"}
+{"count": 3, "ids": [148], "pos": "vbz", "rank": 0.010208824057447025, "text": "does"}
+{"count": 5, "ids": [190], "pos": "vbd", "rank": 0.010164196912747848, "text": "included"}
+{"count": 4, "ids": [180], "pos": "nn", "rank": 0.010133957540734944, "text": "article"}
+{"count": 1, "ids": [198, 196], "pos": "np", "rank": 0.010060411046762337, "text": "important sentences"}
+{"count": 1, "ids": [202, 224], "pos": "np", "rank": 0.009783796104233675, "text": "interesting parts"}
+{"count": 1, "ids": [199, 194], "pos": "np", "rank": 0.009673494048216949, "text": "end-to-end algorithms"}
+{"count": 1, "ids": [208, 209], "pos": "np", "rank": 0.009397718535180118, "text": "language translation"}
+{"count": 1, "ids": [75, 206], "pos": "np", "rank": 0.00939612295257664, "text": "image recognition"}
+{"count": 1, "ids": [26, 159, 194], "pos": "np", "rank": 0.009258995985854392, "text": "machine learning algorithms"}
+{"count": 6, "ids": [168], "pos": "nn", "rank": 0.009141428965756287, "text": "summarization"}
+{"count": 1, "ids": [152, 83], "pos": "np", "rank": 0.009027524825979646, "text": "good results"}
+{"count": 1, "ids": [178], "pos": "np", "rank": 0.008948284536315012, "text": "content"}
+{"count": 3, "ids": [194], "pos": "np", "rank": 0.00876483131883545, "text": "algorithm"}
+{"count": 1, "ids": [145], "pos": "np", "rank": 0.00875032698124301, "text": "time"}
+{"count": 1, "ids": [289], "pos": "np", "rank": 0.008745347369115085, "text": "folder"}
+{"count": 1, "ids": [253, 233], "pos": "np", "rank": 0.008603064535318181, "text": "candidate headlines"}
+{"count": 5, "ids": [250], "pos": "vb", "rank": 0.007659246228884199, "text": "decode"}
+{"count": 5, "ids": [12], "pos": "vbp", "rank": 0.007567815111606805, "text": "have"}
+{"count": 3, "ids": [275], "pos": "nn", "rank": 0.007561813811417827, "text": "word"}
+{"count": 1, "ids": [285, 238], "pos": "np", "rank": 0.00737703767251823, "text": "entire dataset"}
+{"count": 1, "ids": [278, 279], "pos": "np", "rank": 0.0071413348523020155, "text": "space character"}
+{"count": 1, "ids": [184, 185], "pos": "np", "rank": 0.007120821457056049, "text": "main points"}
+{"count": 1, "ids": [211, 244, 245], "pos": "np", "rank": 0.007102099315542705, "text": "tensorflow models github"}
+{"count": 2, "ids": [7, 219, 118], "pos": "np", "rank": 0.007052402331128336, "text": "google brain team"}
+{"count": 4, "ids": [153], "pos": "vbg", "rank": 0.006967974993735678, "text": "training"}
+{"count": 1, "ids": [175], "pos": "np", "rank": 0.006871272533009232, "text": "summary"}
+{"count": 1, "ids": [291], "pos": "np", "rank": 0.006860963838386887, "text": "prefix"}
+{"count": 1, "ids": [251, 81], "pos": "np", "rank": 0.006781069981802894, "text": "beam search"}
+{"count": 1, "ids": [270, 271], "pos": "np", "rank": 0.006728677197536466, "text": "tensorflow.core.example.example_pb2.example objects"}
+{"count": 1, "ids": [207, 206], "pos": "np", "rank": 0.006594341614670947, "text": "speech recognition"}
+{"count": 3, "ids": [246], "pos": "nn", "rank": 0.0065230458184126075, "text": "repository"}
+{"count": 1, "ids": [293, 233], "pos": "np", "rank": 0.006452298401488635, "text": "original headlines"}
+{"count": 1, "ids": [48], "pos": "np", "rank": 0.006356079742400361, "text": "test"}
+{"count": 1, "ids": [237], "pos": "nnp", "rank": 0.0063489419647850395, "text": "gigaword"}
+{"count": 1, "ids": [231, 168], "pos": "np", "rank": 0.006094285977170858, "text": "abstractive summarization"}
+{"count": 1, "ids": [167, 265], "pos": "np", "rank": 0.005927863681267005, "text": "text file"}
+{"count": 1, "ids": [176], "pos": "np", "rank": 0.005850933236390405, "text": "user"}
+{"count": 1, "ids": [222], "pos": "nn", "rank": 0.005816807161923919, "text": "post"}
+{"count": 1, "ids": [171], "pos": "nns", "rank": 0.005787645520841413, "text": "applications"}
+{"count": 1, "ids": [46, 205], "pos": "np", "rank": 0.005640370587058702, "text": "other areas"}
+{"count": 7, "ids": [240], "pos": "vbp", "rank": 0.005634819514587388, "text": "contain"}
+{"count": 2, "ids": [259, 260, 261], "pos": "np", "rank": 0.005625684366917524, "text": "linguistic data consortium"}
+{"count": 1, "ids": [287], "pos": "np", "rank": 0.0054882299188801975, "text": "execution"}
+{"count": 1, "ids": [168, 239], "pos": "np", "rank": 0.005473917809519353, "text": "summarization research"}
+{"count": 1, "ids": [220], "pos": "vbd", "rank": 0.005280459156535654, "text": "published"}
+{"count": 1, "ids": [217, 218], "pos": "np", "rank": 0.005231293733773911, "text": "software engineers"}
+{"count": 1, "ids": [263], "pos": "np", "rank": 0.005175515875848592, "text": "bazel"}
+{"count": 1, "ids": [280], "pos": "nns", "rank": 0.0051488486195977725, "text": "occurrences"}
+{"count": 3, "ids": [196], "pos": "nns", "rank": 0.0050302055233811685, "text": "sentences"}
+{"count": 1, "ids": [110], "pos": "nn", "rank": 0.004999176509012244, "text": "number"}
+{"count": 2, "ids": [252], "pos": "vb", "rank": 0.004962745182681667, "text": "find"}
+{"count": 2, "ids": [224], "pos": "nns", "rank": 0.004891898052116837, "text": "parts"}
+{"count": 4, "ids": [199], "pos": "nn", "rank": 0.0048367470241084745, "text": "end-to-end"}
+{"count": 1, "ids": [209], "pos": "nn", "rank": 0.004698859267590059, "text": "translation"}
+{"count": 2, "ids": [206], "pos": "nn", "rank": 0.00469806147628832, "text": "recognition"}
+{"count": 3, "ids": [159], "pos": "nn", "rank": 0.004629497992927196, "text": "learning"}
+{"count": 1, "ids": [133, 159, 65], "pos": "np", "rank": 0.004629497992927196, "text": "deep learning technique"}
+{"count": 1, "ids": [83], "pos": "np", "rank": 0.004513762412989823, "text": "results"}
+{"count": 2, "ids": [242], "pos": "nn", "rank": 0.004463885314814664, "text": "sequence-to-sequence"}
+{"count": 2, "ids": [126], "pos": "np", "rank": 0.004416833340240726, "text": "first"}
+{"count": 2, "ids": [215, 216], "pos": "np", "rank": 0.004274974867853528, "text": "xin pan"}
+{"count": 1, "ids": [211, 244], "pos": "np", "rank": 0.004101112052213036, "text": "tensorflow models"}
+{"count": 1, "ids": [290, 265], "pos": "np", "rank": 0.00395190912084467, "text": "few files"}
+{"count": 1, "ids": [235], "pos": "nnp", "rank": 0.00391951693689405, "text": "annotated"}
+{"count": 1, "ids": [188, 189], "pos": "np", "rank": 0.003822929070351568, "text": "multiple approaches"}
+{"count": 4, "ids": [172], "pos": "vbg", "rank": 0.003814457328576144, "text": "running"}
+{"count": 1, "ids": [234], "pos": "nn", "rank": 0.0037812720866090784, "text": "news"}
+{"count": 1, "ids": [279], "pos": "nn", "rank": 0.0035706674261510077, "text": "character"}
+{"count": 2, "ids": [185], "pos": "nn", "rank": 0.0035604107285280243, "text": "point"}
+{"count": 2, "ids": [245], "pos": "nnp", "rank": 0.0035510496577713527, "text": "github"}
+{"count": 1, "ids": [46, 265], "pos": "np", "rank": 0.003528609782487166, "text": "other files"}
+{"count": 1, "ids": [118], "pos": "nnp", "rank": 0.003526201165564168, "text": "team"}
+{"count": 1, "ids": [236], "pos": "nnp", "rank": 0.0034317524006052067, "text": "english"}
+{"count": 1, "ids": [81], "pos": "nn", "rank": 0.003390534990901447, "text": "search"}
+{"count": 1, "ids": [248], "pos": "nn", "rank": 0.003389049415865766, "text": "attention"}
+{"count": 1, "ids": [271], "pos": "nns", "rank": 0.003364338598768233, "text": "objects"}
+{"count": 1, "ids": [213, 214], "pos": "np", "rank": 0.003325244846090961, "text": "peter liu"}
+{"count": 1, "ids": [208], "pos": "nn", "rank": 0.0032975955654195132, "text": "language"}
+{"count": 1, "ids": [207], "pos": "nn", "rank": 0.0032971708073354735, "text": "speech"}
+{"count": 1, "ids": [253], "pos": "nn", "rank": 0.0032957628964498465, "text": "candidate"}
+{"count": 1, "ids": [75], "pos": "nn", "rank": 0.003295718465170355, "text": "image"}
+{"count": 2, "ids": [230], "pos": "vbn", "rank": 0.00325553079470207, "text": "called"}
+{"count": 1, "ids": [219], "pos": "nnp", "rank": 0.0032545103131027173, "text": "brain"}
+{"count": 1, "ids": [203], "pos": "vb", "rank": 0.0032112225046436174, "text": "try"}
+{"count": 2, "ids": [169], "pos": "nn", "rank": 0.0032030495392563166, "text": "problem"}
+{"count": 1, "ids": [186, 169], "pos": "np", "rank": 0.0032030495392563166, "text": "easy problem"}
+{"count": 1, "ids": [244], "pos": "nnp", "rank": 0.0031656230526504224, "text": "models"}
+{"count": 1, "ids": [221], "pos": "nn", "rank": 0.003143708655986529, "text": "blog"}
+{"count": 1, "ids": [264], "pos": "nns", "rank": 0.0030983287722049484, "text": "prerequisites"}
+{"count": 1, "ids": [232], "pos": "vb", "rank": 0.003095450204451074, "text": "produce"}
+{"count": 1, "ids": [288], "pos": "nnp", "rank": 0.0030686683027074772, "text": "log_root"}
+{"count": 1, "ids": [249], "pos": "nn", "rank": 0.003052470792796749, "text": "input"}
+{"count": 1, "ids": [292], "pos": "nn", "rank": 0.002941164988283643, "text": "ref"}
+{"count": 1, "ids": [7], "pos": "nnp", "rank": 0.002926248621864326, "text": "google"}
+{"count": 1, "ids": [108], "pos": "np", "rank": 0.0028339631309729457, "text": "titles"}
+{"count": 1, "ids": [205], "pos": "nns", "rank": 0.002820185293529351, "text": "areas"}
+{"count": 2, "ids": [260], "pos": "nn", "rank": 0.002812842183458762, "text": "data"}
+{"count": 1, "ids": [192], "pos": "vbn", "rank": 0.002786373453942433, "text": "supervised"}
+{"count": 1, "ids": [251], "pos": "nn", "rank": 0.0027814354297707915, "text": "beam"}
+{"count": 4, "ids": [243], "pos": "nn", "rank": 0.0027433538288883187, "text": "code"}
+{"count": 1, "ids": [239], "pos": "nn", "rank": 0.0027369589047596763, "text": "research"}
+{"count": 1, "ids": [195], "pos": "nn", "rank": 0.0027227119711423016, "text": "importance"}
+{"count": 1, "ids": [261], "pos": "nnp", "rank": 0.0027184704819006537, "text": "consortium"}
+{"count": 1, "ids": [162], "pos": "nns", "rank": 0.0026789280319033182, "text": "data"}
+{"count": 1, "ids": [256], "pos": "vbz", "rank": 0.002631804882027484, "text": "costs"}
+{"count": 1, "ids": [218], "pos": "nns", "rank": 0.0026156468668869556, "text": "engineers"}
+{"count": 1, "ids": [181, 182], "pos": "np", "rank": 0.0025613227716062476, "text": "virtual assistant"}
+{"count": 1, "ids": [276], "pos": "nn", "rank": 0.0025058017251892383, "text": "vocabulary"}
+{"count": 1, "ids": [278], "pos": "nn", "rank": 0.0025058017251892383, "text": "space"}
+{"count": 3, "ids": [95], "pos": "vb", "rank": 0.0024390943787306303, "text": "create"}
+{"count": 1, "ids": [166], "pos": "nn", "rank": 0.0023119853044176316, "text": "lot"}
+{"count": 1, "ids": [227], "pos": "nns", "rank": 0.0023110614821062873, "text": "rephrasings"}
+{"count": 1, "ids": [282], "pos": "vb", "rank": 0.002208416670120363, "text": "vectorize"}
+{"count": 1, "ids": [217], "pos": "nn", "rank": 0.0021542207540488564, "text": "software"}
+{"count": 1, "ids": [187], "pos": "vb", "rank": 0.002149417460991474, "text": "solve"}
+{"count": 2, "ids": [215], "pos": "np", "rank": 0.002137487433926764, "text": "xin"}
+{"count": 1, "ids": [266], "pos": "nn", "rank": 0.002094213829912796, "text": "directory"}
+{"count": 1, "ids": [255], "pos": "nn", "rank": 0.0020388883668662123, "text": "license"}
+{"count": 1, "ids": [173], "pos": "nn", "rank": 0.0019794317544036054, "text": "website"}
+{"count": 1, "ids": [65], "pos": "nn", "rank": 0.0019386147245335744, "text": "technique"}
+{"count": 1, "ids": [204], "pos": "vbp", "rank": 0.0019284976168639088, "text": "demonstrate"}
+{"count": 1, "ids": [223], "pos": "vbg", "rank": 0.0019143892856734904, "text": "extracting"}
+{"count": 1, "ids": [189], "pos": "np", "rank": 0.001911464535175784, "text": "approach"}
+{"count": 1, "ids": [216], "pos": "nnp", "rank": 0.0018851053264961931, "text": "pan"}
+{"count": 1, "ids": [228], "pos": "vb", "rank": 0.0018809251116617888, "text": "make"}
+{"count": 2, "ids": [262], "pos": "nn", "rank": 0.0018585265005292507, "text": "toy"}
+{"count": 1, "ids": [183], "pos": "vb", "rank": 0.001824963143388518, "text": "summarize"}
+{"count": 1, "ids": [52], "pos": "nn", "rank": 0.001799308515909477, "text": "set"}
+{"count": 1, "ids": [277], "pos": "np", "rank": 0.001797400697121534, "text": "line"}
+{"count": 1, "ids": [281], "pos": "np", "rank": 0.001797400697121534, "text": "list"}
+{"count": 1, "ids": [212, 0], "pos": "np", "rank": 0.001797400697121534, "text": "august 2016"}
+{"count": 2, "ids": [164], "pos": "nn", "rank": 0.0016760516092894117, "text": "training"}
+{"count": 1, "ids": [283], "pos": "vb", "rank": 0.0016760516092894117, "text": "note"}
+{"count": 1, "ids": [179], "pos": "vb", "rank": 0.0016626224230454805, "text": "read"}
+{"count": 1, "ids": [213], "pos": "np", "rank": 0.0016626224230454805, "text": "peter"}
+{"count": 1, "ids": [197], "pos": "vb", "rank": 0.0016617431180019858, "text": "construct"}
+{"count": 1, "ids": [226], "pos": "vb", "rank": 0.0016617431180019858, "text": "allow"}
+{"count": 1, "ids": [273], "pos": "nn", "rank": 0.001618491522318182, "text": "format"}
+{"count": 1, "ids": [274], "pos": "nn", "rank": 0.001618491522318182, "text": "frequency"}
+{"count": 1, "ids": [286], "pos": "vb", "rank": 0.0014833697600501628, "text": "stop"}
+{"count": 1, "ids": [109], "pos": "vbp", "rank": 0.001471719108211196, "text": "rank"}
+{"count": 1, "ids": [259], "pos": "nnp", "rank": 0.00146879435771349, "text": "linguistic"}
+{"count": 1, "ids": [268], "pos": "nn", "rank": 0.0014308851637621122, "text": "sequence"}
+{"count": 1, "ids": [26], "pos": "nn", "rank": 0.00135547885721348, "text": "machine"}
+{"count": 1, "ids": [258], "pos": "nns", "rank": 0.0013413705260230612, "text": "members"}
+{"count": 1, "ids": [182], "pos": "nn", "rank": 0.0012806613858031238, "text": "assistant"}
+{"count": 1, "ids": [214], "pos": "np", "rank": 0.0012520215875249832, "text": "liu"}
+{"count": 1, "ids": [121], "pos": "vbp", "rank": 0.000898700348560767, "text": "want"}
+{"count": 1, "ids": [212], "pos": "nnp", "rank": 0.000898700348560767, "text": "august"}
+{"count": 1, "ids": [247], "pos": "nn", "rank": 0.000898700348560767, "text": "core"}
+{"count": 1, "ids": [257], "pos": "nns", "rank": 0.000898700348560767, "text": "organizations"}
+{"count": 1, "ids": [29], "pos": "vb", "rank": 0.000898700348560767, "text": "need"}
+{"count": 2, "ids": [267], "pos": "nn", "rank": 0.000898700348560767, "text": "vocab"}
+{"count": 1, "ids": [272], "pos": "nn", "rank": 0.000898700348560767, "text": "example"}
+{"count": 1, "ids": [284], "pos": "vb", "rank": 0.000898700348560767, "text": "loop"}
+{"count": 1, "ids": [0, 0], "pos": "np", "rank": 0.0, "text": "$ 6000"}

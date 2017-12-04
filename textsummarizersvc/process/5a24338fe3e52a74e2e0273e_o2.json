@@ -1,0 +1,148 @@
+{"count": 2, "ids": [298], "pos": "np", "rank": 0.06334324336785474, "text": "variables"}
+{"count": 26, "ids": [51], "pos": "vbp", "rank": 0.038072725871439665, "text": "are"}
+{"count": 4, "ids": [302, 298], "pos": "np", "rank": 0.03167162168392737, "text": "explanatory variable"}
+{"count": 1, "ids": [110], "pos": "np", "rank": 0.02728120923104166, "text": "number"}
+{"count": 2, "ids": [364], "pos": "np", "rank": 0.026308125569409282, "text": "people"}
+{"count": 5, "ids": [303, 298], "pos": "np", "rank": 0.024995046437552338, "text": "dependent variable"}
+{"count": 5, "ids": [360, 52], "pos": "np", "rank": 0.02446076757076665, "text": "television set"}
+{"count": 1, "ids": [294, 295, 277], "pos": "np", "rank": 0.021910461617072656, "text": "linear regression line"}
+{"count": 6, "ids": [260], "pos": "np", "rank": 0.021421735278658847, "text": "data"}
+{"count": 1, "ids": [318, 319], "pos": "np", "rank": 0.020489474080564708, "text": "significant association"}
+{"count": 1, "ids": [294, 295, 296], "pos": "np", "rank": 0.01874053754898528, "text": "linear regression attempts"}
+{"count": 1, "ids": [46, 298], "pos": "np", "rank": 0.01843238432579536, "text": "other variables"}
+{"count": 1, "ids": [360, 0, 361], "pos": "np", "rank": 0.017499922257689884, "text": "televisions,physicians"}
+{"count": 3, "ids": [334, 335], "pos": "np", "rank": 0.017425838013574703, "text": "correlation coefficient"}
+{"count": 1, "ids": [359, 336], "pos": "np", "rank": 0.01731198312888809, "text": "negative values"}
+{"count": 1, "ids": [290, 307], "pos": "np", "rank": 0.016967983422022374, "text": "few individuals"}
+{"count": 1, "ids": [366], "pos": "np", "rank": 0.014597832272957197, "text": "countries"}
+{"count": 1, "ids": [338, 339], "pos": "np", "rank": 0.013631951487136746, "text": "form y"}
+{"count": 2, "ids": [185], "pos": "np", "rank": 0.013134640391165452, "text": "points"}
+{"count": 5, "ids": [52], "pos": "nn", "rank": 0.012230383785383325, "text": "set"}
+{"count": 2, "ids": [294, 295, 201], "pos": "np", "rank": 0.012134049486634683, "text": "linear regression model"}
+{"count": 1, "ids": [83], "pos": "np", "rank": 0.01204137478878515, "text": "results"}
+{"count": 1, "ids": [277], "pos": "np", "rank": 0.010955230808536328, "text": "line"}
+{"count": 1, "ids": [390, 260, 185], "pos": "np", "rank": 0.010710867639329423, "text": "actual data points"}
+{"count": 1, "ids": [1, 379], "pos": "np", "rank": 0.010365903818791029, "text": "more detail"}
+{"count": 5, "ids": [319], "pos": "nn", "rank": 0.010244737040282354, "text": "association"}
+{"count": 1, "ids": [358, 319], "pos": "np", "rank": 0.010244737040282354, "text": "positive association"}
+{"count": 9, "ids": [295], "pos": "nn", "rank": 0.00937026877449264, "text": "regression"}
+{"count": 1, "ids": [294, 300], "pos": "np", "rank": 0.008940403617263774, "text": "linear equation"}
+{"count": 1, "ids": [302], "pos": "nn", "rank": 0.008883033516930159, "text": "explanatory"}
+{"count": 6, "ids": [360], "pos": "nn", "rank": 0.008749961128844942, "text": "television"}
+{"count": 1, "ids": [334], "pos": "np", "rank": 0.008712919006787351, "text": "correlation"}
+{"count": 1, "ids": [336], "pos": "np", "rank": 0.008655991564444045, "text": "values"}
+{"count": 1, "ids": [388], "pos": "np", "rank": 0.008641514340738917, "text": "plot"}
+{"count": 4, "ids": [307], "pos": "nns", "rank": 0.008483991711011187, "text": "individuals"}
+{"count": 1, "ids": [184, 396], "pos": "np", "rank": 0.008336025669351188, "text": "main cluster"}
+{"count": 3, "ids": [12], "pos": "vb", "rank": 0.008161611045338, "text": "have"}
+{"count": 1, "ids": [403, 404], "pos": "np", "rank": 0.008049078885548126, "text": "major impact"}
+{"count": 4, "ids": [326], "pos": "vbg", "rank": 0.008024168622561403, "text": "indicating"}
+{"count": 1, "ids": [313, 316, 317], "pos": "np", "rank": 0.008013128764448298, "text": "higher college grades"}
+{"count": 5, "ids": [365], "pos": "nn", "rank": 0.007795122876370805, "text": "physician"}
+{"count": 3, "ids": [335], "pos": "nn", "rank": 0.007493688598663079, "text": "coefficient"}
+{"count": 3, "ids": [295, 277], "pos": "np", "rank": 0.007303487205690885, "text": "regression line"}
+{"count": 1, "ids": [260, 185], "pos": "np", "rank": 0.007140578426219615, "text": "data points"}
+{"count": 4, "ids": [301], "pos": "vbn", "rank": 0.006972559053747573, "text": "observed"}
+{"count": 1, "ids": [294], "pos": "np", "rank": 0.006971596878599559, "text": "linear"}
+{"count": 1, "ids": [397, 398, 399], "pos": "np", "rank": 0.006939512842511466, "text": "lower left corner"}
+{"count": 3, "ids": [47], "pos": "vb", "rank": 0.006909169182846283, "text": "consider"}
+{"count": 1, "ids": [329], "pos": "np", "rank": 0.00683450824742654, "text": "trends"}
+{"count": 1, "ids": [339], "pos": "np", "rank": 0.006815975743568373, "text": "y"}
+{"count": 1, "ids": [356, 277], "pos": "np", "rank": 0.006504348573513074, "text": "fitted line"}
+{"count": 2, "ids": [323], "pos": "nn", "rank": 0.006381151391046159, "text": "strength"}
+{"count": 6, "ids": [201], "pos": "nn", "rank": 0.0060670247433173416, "text": "model"}
+{"count": 1, "ids": [294, 201], "pos": "np", "rank": 0.0060670247433173416, "text": "linear model"}
+{"count": 1, "ids": [346, 347], "pos": "np", "rank": 0.006063835397265169, "text": "common method"}
+{"count": 1, "ids": [375, 336], "pos": "np", "rank": 0.0057706610429626975, "text": "r\u00b2 value"}
+{"count": 1, "ids": [349, 277], "pos": "np", "rank": 0.005477615404268164, "text": "best-fitting line"}
+{"count": 3, "ids": [297], "pos": "nn", "rank": 0.005405819613706731, "text": "relationship"}
+{"count": 1, "ids": [379], "pos": "nn", "rank": 0.0051829519093955145, "text": "detail"}
+{"count": 5, "ids": [299], "pos": "nn", "rank": 0.0049045032348521735, "text": "fit"}
+{"count": 1, "ids": [321, 322], "pos": "np", "rank": 0.004737718226675573, "text": "helpful tool"}
+{"count": 1, "ids": [362, 363], "pos": "np", "rank": 0.0047205953679997, "text": "life expectancy"}
+{"count": 1, "ids": [345, 295], "pos": "np", "rank": 0.00468513438724632, "text": "least-squares regression"}
+{"count": 2, "ids": [309], "pos": "vbg", "rank": 0.004574251197018649, "text": "determining"}
+{"count": 2, "ids": [351], "pos": "vbn", "rank": 0.004567000778544774, "text": "summed"}
+{"count": 3, "ids": [300], "pos": "nn", "rank": 0.004470201808631887, "text": "equation"}
+{"count": 1, "ids": [295, 300], "pos": "np", "rank": 0.004470201808631887, "text": "regression equation"}
+{"count": 2, "ids": [396], "pos": "nn", "rank": 0.004168012834675594, "text": "cluster"}
+{"count": 1, "ids": [315], "pos": "np", "rank": 0.004159338682482492, "text": "scores"}
+{"count": 2, "ids": [312], "pos": "vb", "rank": 0.004143290426298939, "text": "cause"}
+{"count": 1, "ids": [402], "pos": "nn", "rank": 0.004108132062873226, "text": "location"}
+{"count": 1, "ids": [170, 201], "pos": "np", "rank": 0.004044683162211561, "text": "useful model"}
+{"count": 1, "ids": [404], "pos": "nn", "rank": 0.004024539442774063, "text": "impact"}
+{"count": 1, "ids": [317], "pos": "nns", "rank": 0.004006564382224149, "text": "grades"}
+{"count": 3, "ids": [352], "pos": "nn", "rank": 0.004002564134383052, "text": "square"}
+{"count": 1, "ids": [308], "pos": "np", "rank": 0.0039792871620140365, "text": "heights"}
+{"count": 1, "ids": [401], "pos": "vbg", "rank": 0.003906227500421338, "text": "depending"}
+{"count": 2, "ids": [353, 354], "pos": "np", "rank": 0.00384395040333543, "text": "vertical deviation"}
+{"count": 1, "ids": [325], "pos": "vbn", "rank": 0.003690468154634832, "text": "proposed"}
+{"count": 1, "ids": [400], "pos": "nns", "rank": 0.0036686726951238296, "text": "outliers"}
+{"count": 2, "ids": [162], "pos": "nns", "rank": 0.00359074294250172, "text": "data"}
+{"count": 1, "ids": [399], "pos": "nn", "rank": 0.003469756421255733, "text": "corner"}
+{"count": 1, "ids": [377], "pos": "vbn", "rank": 0.0034569372993035084, "text": "explained"}
+{"count": 1, "ids": [290, 185], "pos": "np", "rank": 0.00336743457459569, "text": "few points"}
+{"count": 1, "ids": [369], "pos": "nn", "rank": 0.003322424239218525, "text": "wealth"}
+{"count": 1, "ids": [240], "pos": "vbz", "rank": 0.003312639557686211, "text": "contains"}
+{"count": 1, "ids": [331, 332, 333], "pos": "np", "rank": 0.003199167518042955, "text": "valuable numerical measure"}
+{"count": 3, "ids": [148], "pos": "vbz", "rank": 0.0031866967512709185, "text": "does"}
+{"count": 1, "ids": [77], "pos": "np", "rank": 0.0031483872996637477, "text": "command"}
+{"count": 1, "ids": [350], "pos": "vbg", "rank": 0.003111441795171123, "text": "minimizing"}
+{"count": 1, "ids": [371], "pos": "vb", "rank": 0.0030753659506584027, "text": "assume"}
+{"count": 1, "ids": [347], "pos": "np", "rank": 0.0030319176986325844, "text": "method"}
+{"count": 1, "ids": [368], "pos": "nn", "rank": 0.0029823809369209113, "text": "level"}
+{"count": 1, "ids": [341], "pos": "np", "rank": 0.0029145925060908274, "text": "x"}
+{"count": 2, "ids": [355], "pos": "vbp", "rank": 0.002899002219976476, "text": "lie"}
+{"count": 1, "ids": [306], "pos": "nns", "rank": 0.002797106645640777, "text": "weights"}
+{"count": 4, "ids": [272], "pos": "nn", "rank": 0.002745968484656567, "text": "example"}
+{"count": 2, "ids": [378], "pos": "vb", "rank": 0.002726210748422937, "text": "see"}
+{"count": 1, "ids": [343], "pos": "nn", "rank": 0.0026971319752310367, "text": "b"}
+{"count": 1, "ids": [337], "pos": "nn", "rank": 0.002627116706743904, "text": "-1"}
+{"count": 2, "ids": [238], "pos": "nn", "rank": 0.002627116706743904, "text": "dataset"}
+{"count": 1, "ids": [391], "pos": "vb", "rank": 0.0026238139180976483, "text": "evaluate"}
+{"count": 1, "ids": [310], "pos": "nn", "rank": 0.0025823098295286576, "text": "interest"}
+{"count": 1, "ids": [367], "pos": "vbp", "rank": 0.0025823098295286576, "text": "reflect"}
+{"count": 2, "ids": [304], "pos": "nn", "rank": 0.0025093955496729298, "text": "modeler"}
+{"count": 1, "ids": [381], "pos": "np", "rank": 0.0025010103376024114, "text": "minitab"}
+{"count": 1, "ids": [327], "pos": "vbg", "rank": 0.002492807104820839, "text": "increasing"}
+{"count": 1, "ids": [322], "pos": "nn", "rank": 0.0023688591133377867, "text": "tool"}
+{"count": 1, "ids": [305], "pos": "vb", "rank": 0.00236393716927582, "text": "relate"}
+{"count": 1, "ids": [362], "pos": "nn", "rank": 0.00236029768399985, "text": "life"}
+{"count": 1, "ids": [27], "pos": "vbn", "rank": 0.002360208178022888, "text": "known"}
+{"count": 1, "ids": [383], "pos": "vbz", "rank": 0.0022432895839057873, "text": "gives"}
+{"count": 1, "ids": [316], "pos": "nn", "rank": 0.0021658233212494605, "text": "college"}
+{"count": 1, "ids": [373], "pos": "vbg", "rank": 0.002028174760085808, "text": "missing"}
+{"count": 1, "ids": [374], "pos": "vbg", "rank": 0.0019041508175512236, "text": "remaining"}
+{"count": 1, "ids": [354], "pos": "np", "rank": 0.0018769941752790006, "text": "deviations"}
+{"count": 1, "ids": [314], "pos": "nn", "rank": 0.001868932306485619, "text": "sat"}
+{"count": 1, "ids": [121], "pos": "vb", "rank": 0.0018541743486856137, "text": "want"}
+{"count": 1, "ids": [382], "pos": "vb", "rank": 0.0018506569217284425, "text": "regress"}
+{"count": 1, "ids": [361], "pos": "nnps", "rank": 0.0018502076617563199, "text": "physicians"}
+{"count": 1, "ids": [328], "pos": "vbg", "rank": 0.0018471349117686912, "text": "decreasing"}
+{"count": 1, "ids": [363], "pos": "nnp", "rank": 0.0017907785176140983, "text": "expectancy"}
+{"count": 2, "ids": [324], "pos": "vbz", "rank": 0.0017060480482194921, "text": "appears"}
+{"count": 1, "ids": [389], "pos": "vbn", "rank": 0.0017060480482194921, "text": "computed"}
+{"count": 1, "ids": [344], "pos": "nn", "rank": 0.0016623522760171694, "text": "intercept"}
+{"count": 1, "ids": [357], "pos": "nns", "rank": 0.0016623522760171694, "text": "cancellations"}
+{"count": 2, "ids": [225], "pos": "vbg", "rank": 0.001633429906762265, "text": "using"}
+{"count": 1, "ids": [333], "pos": "nn", "rank": 0.0015995837590214775, "text": "measure"}
+{"count": 2, "ids": [296], "pos": "vbg", "rank": 0.0015845564917672727, "text": "attempting"}
+{"count": 1, "ids": [320], "pos": "np", "rank": 0.0015754496124846373, "text": "scatterplot"}
+{"count": 1, "ids": [338], "pos": "nn", "rank": 0.001547741442164316, "text": "form"}
+{"count": 1, "ids": [392], "pos": "nn", "rank": 0.0015129498839725202, "text": "right"}
+{"count": 1, "ids": [311], "pos": "vb", "rank": 0.0014648684752506258, "text": "imply"}
+{"count": 1, "ids": [119], "pos": "vb", "rank": 0.0014572962530454137, "text": "choose"}
+{"count": 1, "ids": [345], "pos": "nnp", "rank": 0.001432080456336887, "text": "least-squares"}
+{"count": 1, "ids": [348], "pos": "vbz", "rank": 0.001432080456336887, "text": "calculates"}
+{"count": 1, "ids": [330], "pos": "vb", "rank": 0.0007877248062423186, "text": "provide"}
+{"count": 1, "ids": [340], "pos": "nn", "rank": 0.0007877248062423186, "text": "bx"}
+{"count": 1, "ids": [342], "pos": "nn", "rank": 0.0007877248062423186, "text": "slope"}
+{"count": 1, "ids": [372], "pos": "vbg", "rank": 0.0007877248062423186, "text": "removing"}
+{"count": 1, "ids": [376], "pos": "nn", "rank": 0.0007877248062423186, "text": "variation"}
+{"count": 1, "ids": [283], "pos": "vb", "rank": 0.0007877248062423186, "text": "note"}
+{"count": 1, "ids": [380], "pos": "vb", "rank": 0.0007877248062423186, "text": "suppose"}
+{"count": 1, "ids": [386], "pos": "vb", "rank": 0.0007877248062423186, "text": "view"}
+{"count": 1, "ids": [393], "pos": "nn", "rank": 0.0007877248062423186, "text": "x-axis"}
+{"count": 2, "ids": [0], "pos": "np", "rank": 0.0, "text": "first"}
+{"count": 2, "ids": [0, 0], "pos": "np", "rank": 0.0, "text": "\n the"}
+{"count": 1, "ids": [385], "pos": "np", "rank": 0.0, "text": "tel"}

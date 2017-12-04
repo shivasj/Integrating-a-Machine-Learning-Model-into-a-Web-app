@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html ng-app="textsummarizer.app">
+<head>
+    <title>CSCIE82 - Sample App</title>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="expires" content="-1" />
+
+    <!-- App Styles -->
+    <!--Bootstrap -->
+    <link rel="stylesheet" href="lib/bootstrap/css/bootstrap.min.css">
+
+    <!--Font awesome -->
+    <link rel="stylesheet" href="lib/font-awesome/css/font-awesome.min.css">
+
+    <link rel="stylesheet" href="lib/toastr/toaster.min.css">
+    <link rel="stylesheet" type="text/css" href="lib/ui-grid/ui-grid.min.css">
+    <link rel="stylesheet" type="text/css" href="lib/ui-grid/ui-grid-paper-theme.css">
+    <link rel="stylesheet" type="text/css" href="lib/ui-select/select.min.css">
+
+    <!--Main App CSS -->
+    <!-- build:css -->
+    <link rel="stylesheet" href="app.css">
+    <link rel="stylesheet" href="components/navbar/navbar.css">
+    <link rel="stylesheet" href="components/menu/menu.css">
+    <link rel="stylesheet" href="components/home/home.css">
+    <link rel="stylesheet" href="components/common/print.css">
+    <link rel="stylesheet" href="components/common/switch.css">
+    <link rel="stylesheet" href="components/common/arrow-buttons.css">
+    <link rel="stylesheet" href="components/common/form-elements.css">
+    <link rel="stylesheet" href="components/common/loading-overlay.css">
+    <link rel="stylesheet" href="components/common/extensions.css">
+    <link rel="stylesheet" href="components/textsummarizer/textsummarizer.css">
+    <!-- endbuild -->
+
+</head>
+<body ng-controller="appController as appCtrl">
+
+    <!-- Header Navigation -->
+    <div class="hidden-print">
+        <app-header></app-header>
+    </div>
+
+    <!-- Body Content -->
+    <div class="body-content" ui-view ></div>
+
+    <toaster-container toaster-options="{'close-button':true,'position-class':'toast-top-center' }"></toaster-container>
+
+    <!-- Footer -->
+    <div></div>
+
+    <!-- Load JS libraries -->
+    <!--Utils-->
+    <script type="text/javascript" src="lib/utils/lodash.min.js"></script>
+    <script type="text/javascript" src="lib/jquery/jquery.min.js"></script>
+    <script type="text/javascript" src="lib/bootstrap/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="lib/jquery-screenfull/screenfull.min.js"></script>
+
+    <!-- D3 -->
+    <script src="lib/d3/d3.v4.min.js"></script>
+    <!-- Utils -->
+    <script type="text/javascript" src="lib/utils/papaparse.min.js"></script>
+
+    <!-- codemirror -->
+    <!--<script type="text/javascript" src="lib/codemirror/lib/codemirror.js"></script>-->
+    <!--<script type="text/javascript" src="lib/codemirror/addon/display/placeholder.js"></script>-->
+    <!--<script type="text/javascript" src="lib/utils/csv.js"></script>-->
+    <!--<script type="text/javascript" src="lib/pdfmake/pdfmake.min.js"></script>-->
+    <!--<script type="text/javascript" src="lib/pdfmake/vfs_fonts.js"></script>-->
+
+    <!--Angular -->
+    <script type="text/javascript" src="lib/angular/angular.min.js"></script>
+    <script type="text/javascript" src="lib/angular/angular-animate.min.js"></script>
+    <script type="text/javascript" src="lib/angular/angular-sanitize.min.js"></script>
+    <script type="text/javascript" src="lib/angular/angular-ui-router.min.js"></script>
+    <script type="text/javascript" src="lib/angular/ui-bootstrap-tpls.min.js"></script>
+    <script type="text/javascript" src="lib/angular-local-storage/angular-local-storage.min.js"></script>
+    <!--<script type="text/javascript" src="lib/xeditable/xeditable.min.js"></script>-->
+    <script type="text/javascript" src="lib/toastr/toaster.min.js"></script>
+    <script type="text/javascript" src="lib/angular-ui/build/angular-ui.js"></script>
+    <!--<script type="text/javascript" src="lib/ng-file-upload/ng-file-upload-shim.min.js"></script>-->
+    <!--<script type="text/javascript" src="lib/ng-file-upload/ng-file-upload.min.js"></script>-->
+    <!--<script type="text/javascript" src="lib/is_js/is.min.js"></script>-->
+    <!--<script type="text/javascript" src="lib/js-xlsx/dist/xlsx.full.min.js"></script>-->
+    <script type="text/javascript" src="lib/ui-grid/ui-grid.min.js"></script>
+    <script type="text/javascript" src="lib/ui-select/select.min.js"></script>
+    <script type="text/javascript" src="lib/angular-input-masks/angular-input-masks-standalone.min.js"></script>
+    <script type="text/javascript" src="lib/angular-loading-overlay/angular-loading-overlay.js"></script>
+
+    <!-- Load App libraries -->
+    <!-- build:appconfigjs -->
+    <script type="text/javascript" src="app.config.js"></script>
+    <!-- endbuild -->
+    <!-- build:js -->
+    <script type="text/javascript" src="app.js"></script>
+    <script type="text/javascript" src="components/common/common.js"></script>
+    <script type="text/javascript" src="components/navbar/navbar.js"></script>
+    <script type="text/javascript" src="components/menu/menu.js"></script>
+    <script type="text/javascript" src="components/home/home.js"></script>
+    <script type="text/javascript" src="components/textsummarizer/textsummarizer.js"></script>
+    <script type="text/javascript" src="components/sentimentanalysis/sentimentanalysis.js"></script>
+    <!-- endbuild -->
+
+</body>
+</html>

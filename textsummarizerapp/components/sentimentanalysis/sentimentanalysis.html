@@ -1,0 +1,98 @@
+<nav class="navbar navbar-default navbar-fixed-title hidden-print">
+    <div class="container navbar-title app-container">
+        <div class="row">
+            <div class="col-xs-2 col-md-4 page-title-left">
+                <a ng-click="sentimentAnalysisCtrl.Back()" class="btn btn-left"><i class="fa fa-chevron-left fa-large" aria-hidden="true"></i></a>
+            </div>
+            <div class="col-md-4 hidden-xs"><div class="page-title">Sentiment Analysis</div></div>
+            <div class="cols-xs-10 col-md-4 page-title-right">
+                <div class="btn-group">
+                    <a class="btn"><i class="fa fa-plus-circle fa-large" aria-hidden="true" ng-click="sentimentAnalysisCtrl.AddNew()"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</nav>
+<div class="container">
+    <div class="row">&nbsp;</div>
+    <div ng-show="sentimentAnalysisCtrl.index">
+        <div class="table-responsive">
+            <table class="table table-striped">
+                <thead>
+                <tr>
+                    <th></th>
+                    <th class="text-center">Review</th>
+                    <th>Sentiment</th>
+                    <th>Probability</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr ng-repeat="row in sentimentAnalysisCtrl.all_reviews">
+                    <td>
+                        <button type="button" ng-click="sentimentAnalysisCtrl.EditReview(row)" class="btn btn-sm btn-primary">
+                        <i class="fa fa-pencil"></i> Edit
+                        </button>
+                    </td>
+                    <td width="70%">{{row.review_text}}</td>
+                    <td>{{sentimentAnalysisCtrl.GetSentiment(row.y)}}</td>
+                    <td>{{row.proba | percentage}}</td>
+                </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <div ng-show="sentimentAnalysisCtrl.input">
+        <div class="well">
+            <form name="inputform">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="form-group">
+                            <label class="control-label">Review:</label>
+                            <textarea class="form-control" rows="8" ng-model="sentimentAnalysisCtrl.review.review_text" placeholder="Add a review here...."></textarea>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">&nbsp;</div>
+                <div class="row">
+                    <div class="col-xs-12 text-center">
+                        <a class="btn btn-primary" ng-click="sentimentAnalysisCtrl.Save()" ng-disabled="inputform.$invalid">Save</a>&nbsp;&nbsp;
+                        <a class="btn btn-default" ng-click="sentimentAnalysisCtrl.Cancel()">Cancel</a>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+    <div ng-show="sentimentAnalysisCtrl.output">
+        <div class="well">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="form-group">
+                        <label class="control-label">Review:</label>
+                        <p class="content-output" ng-bind-html="sentimentAnalysisCtrl.review.review_text"></p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="form-group">
+                        <label class="control-label">Prediction:</label>
+                        <p class="content-output">The review is <b>{{sentimentAnalysisCtrl.GetSentiment(sentimentAnalysisCtrl.review.y)}}</b> (probability: {{sentimentAnalysisCtrl.review.proba|percentage}})</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xs-12">
+                    <a class="btn btn-success" ng-click="sentimentAnalysisCtrl.CorrectPrediction()"><i class="fa fa-check" aria-hidden="true"></i> Correct</a>&nbsp;&nbsp;
+                    <a class="btn btn-danger" ng-click="sentimentAnalysisCtrl.InCorrectPrediction()"><i class="fa fa-times" aria-hidden="true"></i> Incorrect</a>
+                </div>
+            </div>
+            <div class="row">&nbsp;</div>
+            <div class="row">
+                <div class="col-xs-12 text-center">
+                    <a class="btn btn-primary" ng-click="sentimentAnalysisCtrl.EditReview(sentimentAnalysisCtrl.review)" >Edit</a>&nbsp;&nbsp;
+                    <a class="btn btn-default" ng-click="sentimentAnalysisCtrl.Cancel()">Back</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

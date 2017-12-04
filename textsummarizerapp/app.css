@@ -1,0 +1,88 @@
+html {
+    /*height: 100%;*/
+    margin: 0;
+    padding: 0;
+    background: #ececec;
+}
+body{
+    background: #ececec;
+    font-size: 14px;
+    font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    -webkit-font-smoothing: antialiased;
+    line-height: 1.42857143;
+    color: #58666e;
+}
+.body-content{
+    margin-top: 105px;
+    margin-bottom: 75px;
+    position: relative;
+}
+
+.search-group{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.search-form {
+    border-radius: 30px 0px 0px 30px;
+}
+.search-btn {
+    border-radius: 0px 30px 30px 0px;
+    cursor:pointer;
+}
+.search-btn-square{
+    border-radius: 0px 0px 0px 0px;
+    cursor:pointer;
+}
+
+.vertical-align {
+    display: flex;
+    align-items: center;
+    /*justify-content: center;*/
+    flex-direction: row;
+}
+.right-align{
+    position: absolute;
+    right: 0px;
+}
+.fa-large{
+    font-size: 20px;
+}
+
+.sharp-edge-panel{
+    border-radius: 0px;
+}
+
+
+.btn-left{
+    padding-left: 0px;
+}
+.btn-right{
+    padding-right: 0px;
+}
+
+.remove-hor-col-padding{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+
+
+.brand{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
+.app-container{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.notebook-container{
+    margin-top: 50px;
+    background-color: #FFFFFF;
+}
+
+table{
+    background-color: #ffffff;
+}

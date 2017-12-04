@@ -1,0 +1,130 @@
+
+#navigation{
+    background:#171B26;
+    height: 100%;
+    overflow-y: auto;
+    z-index: 1800;
+    /*padding-left: 20%;*/
+}
+#nav-container{
+    height: 100%;
+    width: 300px;
+    position: fixed;
+    top: 0;
+}
+.navbar-nav .open .dropdown-menu {
+    position: static;
+    float: none;
+    width: auto;
+    margin-top: 0;
+    background-color: transparent;
+    border: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+.custom-drop{
+    float:none;
+    padding-top: 40px;
+
+}
+.custom-drop li{
+    float:none;
+}
+.custom-drop li a{
+    color:#fff;
+    padding-left: 20%;
+}
+.custom-drop li a:hover,.custom-drop li a:focus{
+    background-color:#31334A !important;
+    color:#DCE1E7;
+}
+
+.top-menu {
+    top: 5px;
+    width: 25px;
+    height: 2px;
+    border-radius: 10px;
+    background-color: #fff;
+}
+
+.mid-menu {
+    top: 13px;
+    width: 25px;
+    height: 2px;
+    border-radius: 10px;
+    background-color: #fff;
+}
+
+.bottom-menu {
+    top: 21px;
+    width: 25px;
+    height: 2px;
+    border-radius: 10px;
+    background-color: #fff;
+}
+
+.menui {
+    background: #fff;
+    transition: 0.6s ease;
+    transition-timing-function: cubic-bezier(.75, 0, .29, 1.01);
+    margin-top: 10px;
+    position: absolute;
+}
+
+.hamburger {
+    z-index: 2000;
+    position: fixed;
+    display: block;
+    padding: 9px;
+    height: 32px;
+    width: 32px;
+    margin: 0px;
+    top: 0;
+    left: 0;
+}
+.top-animate {
+    background: #fff !important;
+    top: 13px !important;
+    -webkit-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+
+.mid-animate {
+    opacity: 0;
+}
+
+.bottom-animate {
+    background: #fff !important;
+    top: 13px !important;
+    -webkit-transform: rotate(-225deg);
+    transform: rotate(-225deg);
+}
+.menu-close{
+    left:-300px;
+}
+.custom-drop > li > a {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.custom-drop .open > a{
+    background:#000000!important;
+}
+.dropdown-menu{
+    /*padding-left:10px;*/
+}
+.main{height:100%;}
+/*.app-name{*/
+    /*width: 100%;*/
+    /*text-align: center;*/
+    /*background:#171B26;*/
+    /*position:fixed;*/
+/*}*/
+/*.app-name a{*/
+    /*float: none !important;*/
+    /*height: 50px;*/
+    /*padding: 15px 15px;*/
+    /*font-size: 18px;*/
+    /*line-height: 50px !important;*/
+    /*color:#fff !important;*/
+/*}*/
+.no-padding{padding:0!important;}

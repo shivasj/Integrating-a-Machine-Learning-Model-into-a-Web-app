@@ -1,0 +1,145 @@
+/*.radio-inline, .checkbox-inline {*/
+    /*position: relative;*/
+    /*display: inline-block;*/
+    /*padding-left: 20px;*/
+    /*margin-bottom: 0;*/
+    /*font-weight: normal;*/
+    /*vertical-align: middle;*/
+    /*cursor: pointer;*/
+/*}*/
+
+/*.i-checks, .i-switch, a {*/
+    /*cursor: pointer;*/
+/*}*/
+
+/*.i-checks {*/
+    /*padding-left: 20px;*/
+/*}*/
+
+/*.form-horizontal .radio, .form-horizontal .checkbox, .form-horizontal .radio-inline, .form-horizontal .checkbox-inline {*/
+    /*padding-top: 7px;*/
+    /*margin-top: 0;*/
+    /*margin-bottom: 0;*/
+/*}*/
+
+/*.i-checks input {*/
+    /*position: absolute;*/
+    /*opacity: 0;*/
+/*}*/
+
+/*.radio input[type="radio"], .radio-inline input[type="radio"], .checkbox input[type="checkbox"], .checkbox-inline input[type="checkbox"] {*/
+    /*position: absolute;*/
+    /*!*margin-top: 4px \9;*!*/
+    /*margin-left: -20px;*/
+/*}*/
+/*.i-checks>i, .list-icon i, .navbar-brand img {*/
+    /*vertical-align: middle;*/
+/*}*/
+/*.i-checks input, .i-checks>i, .i-checks>span {*/
+    /*margin-left: -20px;*/
+/*}*/
+/*.i-checks>i {*/
+    /*position: relative;*/
+    /*display: inline-block;*/
+    /*width: 20px;*/
+    /*height: 20px;*/
+    /*margin-top: -2px;*/
+    /*margin-right: 4px;*/
+    /*line-height: 1;*/
+    /*background-color: #fff;*/
+    /*border: 1px solid #cfdadd;*/
+/*}*/
+/*.i-checks input:checked+i {*/
+    /*border-color: #23b7e5;*/
+/*}*/
+/*.i-checks input:checked+i:before {*/
+    /*top: 4px;*/
+    /*left: 4px;*/
+    /*width: 10px;*/
+    /*height: 10px;*/
+    /*background-color: #23b7e5;*/
+/*}*/
+/*.i-checks>i:before {*/
+    /*position: absolute;*/
+    /*top: 50%;*/
+    /*left: 50%;*/
+    /*width: 0;*/
+    /*height: 0;*/
+    /*background-color: transparent;*/
+    /*content: "";*/
+    /*-webkit-transition: all .2s;*/
+    /*transition: all .2s;*/
+/*}*/
+
+/* Animated Check box - http://bootsnipp.com/snippets/featured/animated-radios-amp-checkboxes-nojs */
+.checkbox label:after,
+.radio label:after {
+    content: '';
+    display: table;
+    clear: both;
+}
+.checkbox .cr,
+.radio .cr {
+    position: relative;
+    display: inline-block;
+    border: 1px solid #a9a9a9;
+    border-radius: .25em;
+    width: 1.3em;
+    height: 1.3em;
+    float: left;
+    /*margin-right: .5em;*/
+    background-color: #ffffff;
+}
+.radio .cr {
+    border-radius: 50%;
+}
+.checkbox .cr .cr-icon,
+.radio .cr .cr-icon {
+    position: absolute;
+    font-size: .8em;
+    line-height: 0;
+    top: 50%;
+    left: 20%;
+}
+.radio .cr .cr-icon {
+    margin-left: 0.04em;
+}
+.checkbox label input[type="checkbox"],
+.radio label input[type="radio"] {
+    display: none;
+}
+.checkbox label input[type="checkbox"] + .cr > .cr-icon,
+.radio label input[type="radio"] + .cr > .cr-icon {
+    transform: scale(3) rotateZ(-20deg);
+    opacity: 0;
+    transition: all .3s ease-in;
+}
+.checkbox label input[type="checkbox"]:checked + .cr > .cr-icon,
+.radio label input[type="radio"]:checked + .cr > .cr-icon {
+    transform: scale(1) rotateZ(0deg);
+    opacity: 1;
+}
+.checkbox label input[type="checkbox"]:disabled + .cr,
+.radio label input[type="radio"]:disabled + .cr {
+    opacity: .5;
+}
+
+.checkbox label, .radio label {
+    padding-left: 0px;
+}
+/* Animated Check box - http://bootsnipp.com/snippets/featured/animated-radios-amp-checkboxes-nojs */
+
+.checkbox-grid-4{
+    float: left;
+    width: 25%;
+    display: inline-block;
+    margin-bottom: 0;
+    cursor: pointer;
+}
+.checkbox-grid-5{
+    float: left;
+    width: 20%;
+    display: inline-block;
+    margin-bottom: 0;
+    cursor: pointer;
+}

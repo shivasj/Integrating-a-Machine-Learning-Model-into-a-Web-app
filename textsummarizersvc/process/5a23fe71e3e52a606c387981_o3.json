@@ -1,0 +1,65 @@
+{"dist": 0.028947093494143827, "idx": 47, "text": "To start , an input image is presented to the convnet and features computed throughout the layers ."}
+{"dist": 0.02542455752565317, "idx": 58, "text": "Filtering : The convnet uses learned filters to convolve the feature maps from the previous layer ."}
+{"dist": 0.025202286064720362, "idx": 32, "text": "( Jarrett et al . , 2009 ) ."}
+{"dist": 0.024277650320368015, "idx": 28, "text": "( Krizhevsky et al . , 2012 ) ."}
+{"dist": 0.024142963314006102, "idx": 48, "text": "To examine a given convnet activation , we set all other activations in the layer to zero and pass the feature maps as input to the attached deconvnet layer ."}
+{"dist": 0.02368086680795397, "idx": 8, "text": "In this paper we introduce a visualization technique that reveals the input stimuli that excite individual feature maps at any layer in the model ."}
+{"dist": 0.019911696099322078, "idx": 63, "text": "Since the model is trained discriminatively , they implicitly show which parts of the input image are discriminative ."}
+{"dist": 0.01969954124515463, "idx": 39, "text": "Understanding the operation of a convnet requires interpreting the feature activity in intermediate layers ."}
+{"dist": 0.01950050760489897, "idx": 10, "text": "The visualization technique we propose uses a multi-layered Deconvolutional Network ( deconvnet ) , as proposed by ( Zeiler et al . , 2011 ) , to project the feature activations back to the input pixel space ."}
+{"dist": 0.01857654444661535, "idx": 16, "text": "The generalization ability of convnet features is also explored in concurrent work by ( Donahue et al . , 2013 ) . \n"}
+{"dist": 0.01792179091203538, "idx": 25, "text": "( Donahue et al . , 2013 ) show visualizations that iden- tify patches within a dataset that are responsible for strong activations at higher layers in the model ."}
+{"dist": 0.01768126609336804, "idx": 29, "text": "These models map a color 2D input image xi , via a series of layers , to a probability vector y\u02c6 over the C different i classes ."}
+{"dist": 0.01672209938589386, "idx": 50, "text": "This is then repeated until input pixel space is reached . \n"}
+{"dist": 0.016654090923174106, "idx": 18, "text": "In higher layers this is not the case , and there are limited methods for interpreting activity ."}
+{"dist": 0.016557869237676562, "idx": 27, "text": "We use standard fully supervised convnet models \n throughout the paper , as defined by ( LeCun et al . , \n 1989 ) and"}
+{"dist": 0.016492188418511976, "idx": 42, "text": "A deconvnet can be thought of as a convnet model that uses the same components ( filtering , pooling ) but in reverse , so instead of mapping pixels to features does the opposite ."}
+{"dist": 0.01648943461200894, "idx": 41, "text": "We perform this mapping with a Deconvolutional Network ( deconvnet ) ( Zeiler et al . , 2011 ) ."}
+{"dist": 0.016391490099793234, "idx": 40, "text": "We present a novel way to map these activities back to the input pixel space , showing what input pattern orig- inally caused a given activation in the feature maps ."}
+{"dist": 0.015922090547176207, "idx": 19, "text": "( Erhan et al . , 2009 ) find the optimal stimulus for each unit by performing gradient descent in image space to maximize the unit \u2019s activation ."}
+{"dist": 0.015746663219079044, "idx": 33, "text": "The top few layers of the network are conventional fully-connected networks and the final layer is a softmax classifier ."}
+{"dist": 0.015643629734948976, "idx": 56, "text": "Rectification : The convnet uses relu non-linearities , which rectify the feature maps thus ensuring the feature maps are always positive ."}
+{"dist": 0.015607061530454464, "idx": 26, "text": "Our visualizations differ in that they are not just crops of input images , but rather top-down projections that reveal structures within each patch that stimulate a particular feature map . \n"}
+{"dist": 0.015580133972636521, "idx": 17, "text": "Visualizing features to gain intuition about the net- work is common practice , but mostly limited to the 1st layer where projections to pixel space are possible ."}
+{"dist": 0.015213397662667879, "idx": 30, "text": "Each layer consists of ( i ) convolution of the previous layer output ( or , in the case of the 1st layer , the input image ) with a set of learned filters ; ( ii ) pass- ing the responses through a rectified linear function ( relu(x ) = max(x,0 ) ) ; ( iii ) [ optionally ] max pooling over local neighborhoods and ( iv ) [ optionally ] a lo- cal contrast operation that normalizes the responses across feature maps ."}
+{"dist": 0.01518919756376137, "idx": 57, "text": "To obtain valid feature reconstructions at each layer ( which also should be positive ) , we pass the reconstructed signal through a relu non-linearity . \n"}
+{"dist": 0.015075069002733496, "idx": 45, "text": "To examine a convnet , a deconvnet is attached to each of its layers , as illustrated in Fig ."}
+{"dist": 0.014769628638900339, "idx": 59, "text": "To invert this , the deconvnet uses transposed versions of the same filters , but applied to the rectified maps , not the output of the layer beneath ."}
+{"dist": 0.014179578831873974, "idx": 43, "text": "In ( Zeiler et al . , 2011 ) , deconvnets were proposed as a way of performing unsupervised learning ."}
+{"dist": 0.014173238618656474, "idx": 2, "text": "( Ciresan et al . , 2012 ) demonstrate state-of-the-art performance on NORB and CIFAR-10 datasets ."}
+{"dist": 0.014115535343056252, "idx": 61, "text": "Projecting down from higher layers uses the switch settings generated by the max pooling in the convnet on the way up ."}
+{"dist": 0.014076779694677908, "idx": 21, "text": "Motivated by the latter \u2019s short-coming , ( Le et al . , 2010 )"}
+{"dist": 0.013940363735839371, "idx": 3, "text": "Most notably , ( Krizhevsky et al . , 2012 ) show record beating performance on the ImageNet 2012 classification benchmark , with their convnet model achieving an error rate of 16.4% , compared to the 2nd place result of 26.1% ."}
+{"dist": 0.01335331460364042, "idx": 49, "text": "Then we successively ( i ) unpool , ( ii ) rectify and ( iii ) filter to reconstruct the activity in the layer beneath that gave rise to the chosen activation ."}
+{"dist": 0.013163285165965419, "idx": 31, "text": "For more details of these opera- tions , see ( Krizhevsky et al . , 2012 ) and"}
+{"dist": 0.012866909754348049, "idx": 62, "text": "As these switch settings are peculiar to a given input image , the reconstruction obtained from a single activation thus resembles a small piece of the original input image , with structures weighted according to their contribution toward to the feature activation ."}
+{"dist": 0.01264563086362152, "idx": 11, "text": "We also perform a sensitivity analysis of the classifier output by occluding portions of the input image , revealing which parts of the scene are important for classification . \n"}
+{"dist": 0.01256652800267706, "idx": 23, "text": "The problem is that for higher layers , the invariances are extremely complex so are poorly captured by a simple quadratic approximation ."}
+{"dist": 0.012537747809918467, "idx": 37, "text": "A cross-entropy loss function , suitable for image classification , is used to compare y\u02c6 and y ."}
+{"dist": 0.012523774214555226, "idx": 9, "text": "It also allows us to observe the evolution of features during training and to diagnose potential problems with the model ."}
+{"dist": 0.012143558738794687, "idx": 0, "text": "Since their introduction by ( LeCun et al . , 1989 ) in the early 1990 \u2019s , Convolutional Networks ( convnets ) have demonstrated excellent performance at tasks such as hand-written digit classification and face detection ."}
+{"dist": 0.011842907578458682, "idx": 46, "text": "1(top ) , providing a continuous path back to image pixels ."}
+{"dist": 0.011306542247820453, "idx": 24, "text": "Our approach , by contrast , provides a non-parametric view of invariance , showing which pat- terns from the training set activate the feature map ."}
+{"dist": 0.01130328295584348, "idx": 53, "text": "In the deconvnet , the unpooling operation uses these switches to place the reconstructions from the layer above into appropriate locations , preserving the structure of the stimulus ."}
+{"dist": 0.010796963434557943, "idx": 35, "text": "3 shows the model used in many of our experiments . \n"}
+{"dist": 0.010458786736587074, "idx": 38, "text": "The parameters of the network ( filters in the convolutional layers , weight matrices in the fully-connected layers and biases ) are trained by back- propagating the derivative of the loss with respect to the parameters throughout the network , and updating the parameters via stochastic gradient descent . \n"}
+{"dist": 0.010359082797932897, "idx": 12, "text": "Using these tools , we start with the architecture of ( Krizhevsky et al . , 2012 ) and explore different architectures , discovering ones that outperform their results on ImageNet ."}
+{"dist": 0.010105361545125221, "idx": 36, "text": "We train these models using a large set of N labeled images { x , y } , where label yi is a discrete variable indicating the true class ."}
+{"dist": 0.009998244649737715, "idx": 14, "text": "As such , this is a form of supervised pre-training , which contrasts with the unsupervised pre-training methods popularized by ( Hinton et al . , 2006 ) and others ( Bengio et al . , 2007 ; Vincent et al . , 2008 )"}
+{"dist": 0.009670415989102944, "idx": 44, "text": "Here , they are not used in any learning capacity , just as a probe of an already trained convnet . \n"}
+{"dist": 0.009644756759903403, "idx": 60, "text": "In practice this means flipping each filter vertically and horizontally . \n"}
+{"dist": 0.009150936134602917, "idx": 64, "text": "Note that these projections are not samples from the model , since there is no generative process involved ."}
+{"dist": 0.00908922183844607, "idx": 13, "text": "We then explore the generalization ability of the model to other datasets , just retraining the softmax classifier on top ."}
+{"dist": 0.008859454036668359, "idx": 7, "text": "Without clear understanding of how and why they work , the development of better models is reduced to trial-and-error ."}
+{"dist": 0.008531789849899165, "idx": 5, "text": "Despite this encouraging progress , there is still lit- tle insight into the internal operation and behavior of these complex models , or how they achieve such good performance ."}
+{"dist": 0.008184284252271861, "idx": 15, "text": "."}
+{"dist": 0.007890637374821097, "idx": 6, "text": "From a scientific standpoint , this is deeply unsatisfactory ."}
+{"dist": 0.0076769664975776955, "idx": 1, "text": "In the last year , several papers have shown that they can also deliver outstanding performance on more challenging visual classification tasks ."}
+{"dist": 0.0073815658007924745, "idx": 34, "text": "Fig ."}
+{"dist": 0.00695933090226107, "idx": 52, "text": ": In the convnet , the max pooling opera- tion is non-invertible , however we can obtain an ap- proximate inverse by recording the locations of the maxima within each pooling region in a set of switch variables ."}
+{"dist": 0.006805028984648341, "idx": 4, "text": "Several factors are responsible for this renewed interest in convnet models : ( i ) the availability of much larger training sets , with millions of labeled examples ; ( ii ) powerful GPU implementations , making the training of very large models practical and ( iii ) better model regularization strategies , such as Dropout . \n"}
+{"dist": 0.006091776946980664, "idx": 54, "text": "See Fig ."}
+{"dist": 0.005381260998478706, "idx": 22, "text": "( extending an idea by ( Berkes & Wiskott , 2006 ) ) show how the Hessian of a given unit may be computed numerically around the optimal response , giving some insight into invariances ."}
+{"dist": 0.004959061275484143, "idx": 55, "text": "1(bottom ) for an illustration of the procedure . \n"}
+{"dist": 0.004455972152623943, "idx": 20, "text": "This requires a careful initialization and does not give any information about the unit \u2019s in- variances ."}
+{"dist": 0.0, "idx": 51, "text": "Unpooling"}

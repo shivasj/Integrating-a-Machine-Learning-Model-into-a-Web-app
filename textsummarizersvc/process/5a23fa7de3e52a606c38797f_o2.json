@@ -1,0 +1,222 @@
+{"count": 2, "ids": [162], "pos": "np", "rank": 0.03245503074507565, "text": "data"}
+{"count": 23, "ids": [51], "pos": "vbd", "rank": 0.02509874443068179, "text": "were"}
+{"count": 4, "ids": [26, 159], "pos": "np", "rank": 0.024690925258248345, "text": "machine learning"}
+{"count": 2, "ids": [26, 151, 170], "pos": "np", "rank": 0.023009947900327853, "text": "machine learning algorithm"}
+{"count": 2, "ids": [180, 170], "pos": "np", "rank": 0.019426411686923856, "text": "self-learning algorithms"}
+{"count": 1, "ids": [259, 260], "pos": "np", "rank": 0.01899701997384838, "text": "conceptual examples"}
+{"count": 1, "ids": [283, 284, 267], "pos": "np", "rank": 0.01673556517657383, "text": "discrete class labels"}
+{"count": 1, "ids": [205, 162], "pos": "np", "rank": 0.016227515372537825, "text": "unstructured data"}
+{"count": 1, "ids": [40, 105], "pos": "np", "rank": 0.01395862412014304, "text": "chess players"}
+{"count": 1, "ids": [241, 242, 243], "pos": "np", "rank": 0.013632728968539157, "text": "voice recognition software"}
+{"count": 1, "ids": [254, 159], "pos": "np", "rank": 0.012345462629124173, "text": "unsupervised learning"}
+{"count": 1, "ids": [235, 236, 237, 238], "pos": "np", "rank": 0.011648325564965263, "text": "robust e-mail spam filters"}
+{"count": 13, "ids": [151], "pos": "vbg", "rank": 0.011504973950163927, "text": "learning"}
+{"count": 1, "ids": [244, 245, 81, 82], "pos": "np", "rank": 0.011477279699299837, "text": "reliable web search engines"}
+{"count": 1, "ids": [198, 217], "pos": "np", "rank": 0.011010505919113128, "text": "build models"}
+{"count": 1, "ids": [164, 162], "pos": "np", "rank": 0.010818343581691883, "text": "training data"}
+{"count": 1, "ids": [292, 293], "pos": "np", "rank": 0.01074557399736622, "text": "continuous value"}
+{"count": 4, "ids": [195], "pos": "np", "rank": 0.0106583295635228, "text": "predictions"}
+{"count": 1, "ids": [297, 298], "pos": "np", "rank": 0.01037498039246836, "text": "past observations"}
+{"count": 1, "ids": [8, 26], "pos": "np", "rank": 0.009914150942296389, "text": "intelligent machines"}
+{"count": 7, "ids": [170], "pos": "nn", "rank": 0.009713205843461928, "text": "algorithm"}
+{"count": 1, "ids": [184, 170], "pos": "np", "rank": 0.009713205843461928, "text": "powerful algorithms"}
+{"count": 1, "ids": [286, 236, 287, 260], "pos": "np", "rank": 0.00949850998692419, "text": "previous e-mail spam-filtering example"}
+{"count": 1, "ids": [317, 318, 242], "pos": "np", "rank": 0.009400034376559646, "text": "handwritten character recognition"}
+{"count": 1, "ids": [154, 295], "pos": "np", "rank": 0.009278449847840793, "text": "new instances"}
+{"count": 4, "ids": [182], "pos": "nn", "rank": 0.009076410366984, "text": "knowledge"}
+{"count": 1, "ids": [196, 197], "pos": "np", "rank": 0.00887387384695326, "text": "future events"}
+{"count": 9, "ids": [267], "pos": "nn", "rank": 0.008367782588286915, "text": "label"}
+{"count": 4, "ids": [284, 267], "pos": "np", "rank": 0.008367782588286915, "text": "class label"}
+{"count": 1, "ids": [10, 169], "pos": "np", "rank": 0.008274334473276544, "text": "computer sciences"}
+{"count": 2, "ids": [159], "pos": "np", "rank": 0.008230308419416115, "text": "learning"}
+{"count": 2, "ids": [202, 203], "pos": "np", "rank": 0.00819927449107307, "text": "large amounts"}
+{"count": 1, "ids": [196, 162], "pos": "np", "rank": 0.008113757686268912, "text": "future data"}
+{"count": 3, "ids": [224, 217], "pos": "np", "rank": 0.007949441681536305, "text": "predictive model"}
+{"count": 4, "ids": [12], "pos": "vb", "rank": 0.007692277727091348, "text": "have"}
+{"count": 1, "ids": [159, 282], "pos": "np", "rank": 0.007661858671704866, "text": "learning task"}
+{"count": 1, "ids": [330, 331], "pos": "np", "rank": 0.007355671430690329, "text": "certain accuracy"}
+{"count": 3, "ids": [173], "pos": "nn", "rank": 0.007219596929921912, "text": "data"}
+{"count": 1, "ids": [105], "pos": "nns", "rank": 0.00697931206007152, "text": "players"}
+{"count": 1, "ids": [174, 175], "pos": "np", "rank": 0.006920876280042976, "text": "exciting field"}
+{"count": 2, "ids": [242], "pos": "nn", "rank": 0.0068163644842695785, "text": "recognition"}
+{"count": 6, "ids": [171], "pos": "vb", "rank": 0.006661940888947447, "text": "make"}
+{"count": 1, "ids": [26], "pos": "np", "rank": 0.006609433961530925, "text": "machine"}
+{"count": 1, "ids": [260], "pos": "np", "rank": 0.006332339991282794, "text": "example"}
+{"count": 1, "ids": [239, 240], "pos": "np", "rank": 0.006174195484850174, "text": "convenient text"}
+{"count": 2, "ids": [189, 97], "pos": "np", "rank": 0.0061520653769975096, "text": "recent years"}
+{"count": 1, "ids": [329, 322], "pos": "np", "rank": 0.006105476364572912, "text": "correct letter"}
+{"count": 7, "ids": [284], "pos": "nn", "rank": 0.005961435827728765, "text": "class"}
+{"count": 1, "ids": [10, 169, 229], "pos": "np", "rank": 0.00587448753451021, "text": "computer science research"}
+{"count": 4, "ids": [237], "pos": "nn", "rank": 0.0058241627824826316, "text": "spam"}
+{"count": 1, "ids": [236, 237, 276], "pos": "np", "rank": 0.0058241627824826316, "text": "e-mail spam filtering"}
+{"count": 1, "ids": [82], "pos": "nns", "rank": 0.005738639849649918, "text": "engines"}
+{"count": 9, "ids": [253], "pos": "vbn", "rank": 0.005718059072027547, "text": "supervised"}
+{"count": 3, "ids": [164, 314], "pos": "np", "rank": 0.005641389804844778, "text": "training dataset"}
+{"count": 2, "ids": [178], "pos": "nn", "rank": 0.005602211422995486, "text": "abundance"}
+{"count": 1, "ids": [294, 284, 267], "pos": "np", "rank": 0.00557852172552461, "text": "categorical class labels"}
+{"count": 1, "ids": [326, 327], "pos": "np", "rank": 0.005440117909100223, "text": "input device"}
+{"count": 2, "ids": [307, 260], "pos": "np", "rank": 0.005405233626590034, "text": "typical example"}
+{"count": 2, "ids": [293], "pos": "nns", "rank": 0.00537278699868311, "text": "values"}
+{"count": 1, "ids": [299, 293], "pos": "np", "rank": 0.00537278699868311, "text": "unordered values"}
+{"count": 1, "ids": [298], "pos": "nns", "rank": 0.00518749019623418, "text": "observations"}
+{"count": 1, "ids": [40], "pos": "nn", "rank": 0.005090875637891983, "text": "chess"}
+{"count": 1, "ids": [261, 262, 263], "pos": "np", "rank": 0.005088790542435792, "text": "practical problem domains"}
+{"count": 1, "ids": [159, 170], "pos": "np", "rank": 0.004938185051649669, "text": "learning algorithm"}
+{"count": 1, "ids": [243], "pos": "nn", "rank": 0.004887478213845315, "text": "software"}
+{"count": 1, "ids": [304, 305], "pos": "np", "rank": 0.0048715548403743154, "text": "e-mail-spam detection"}
+{"count": 1, "ids": [246], "pos": "vbg", "rank": 0.004773234562158248, "text": "challenging"}
+{"count": 1, "ids": [321, 317, 260], "pos": "np", "rank": 0.004700017188279823, "text": "multiple handwritten examples"}
+{"count": 3, "ids": [295], "pos": "nn", "rank": 0.004639224923920397, "text": "instance"}
+{"count": 1, "ids": [315, 295], "pos": "np", "rank": 0.004639224923920397, "text": "unlabeled instance"}
+{"count": 1, "ids": [232, 233], "pos": "np", "rank": 0.004608071576144174, "text": "everyday life"}
+{"count": 1, "ids": [308, 289, 282], "pos": "np", "rank": 0.004594223151178561, "text": "binary classification task"}
+{"count": 1, "ids": [289, 282], "pos": "np", "rank": 0.004562818276914158, "text": "classification task"}
+{"count": 4, "ids": [164], "pos": "nn", "rank": 0.004554467820101283, "text": "training"}
+{"count": 1, "ids": [220, 221], "pos": "np", "rank": 0.004526560223110112, "text": "efficient alternative"}
+{"count": 1, "ids": [220, 248, 249], "pos": "np", "rank": 0.004526501929927511, "text": "efficient self-driving cars"}
+{"count": 1, "ids": [196], "pos": "nn", "rank": 0.00443693692347663, "text": "future"}
+{"count": 1, "ids": [225, 226], "pos": "np", "rank": 0.004392639605978603, "text": "data-driven decisions"}
+{"count": 1, "ids": [291], "pos": "np", "rank": 0.004381914213444852, "text": "regression"}
+{"count": 2, "ids": [318], "pos": "nn", "rank": 0.004348913502100678, "text": "character"}
+{"count": 1, "ids": [154, 317, 318], "pos": "np", "rank": 0.004348913502100678, "text": "new handwritten character"}
+{"count": 1, "ids": [128, 275], "pos": "np", "rank": 0.0043418959559795986, "text": "outcome signal"}
+{"count": 1, "ids": [245], "pos": "nn", "rank": 0.0042831645625427475, "text": "web"}
+{"count": 1, "ids": [62, 63], "pos": "np", "rank": 0.00418530980628153, "text": "artificial intelligence"}
+{"count": 1, "ids": [301, 302], "pos": "np", "rank": 0.004158927000566879, "text": "group memberships"}
+{"count": 3, "ids": [179], "pos": "vbg", "rank": 0.004157774904099825, "text": "using"}
+{"count": 3, "ids": [169], "pos": "nn", "rank": 0.004137167236638272, "text": "science"}
+{"count": 1, "ids": [81], "pos": "nn", "rank": 0.004026628574292163, "text": "search"}
+{"count": 4, "ids": [131], "pos": "vb", "rank": 0.0039816538907440045, "text": "predict"}
+{"count": 1, "ids": [45, 184, 185, 186, 187], "pos": "np", "rank": 0.0039349508743458834, "text": "many powerful open source libraries"}
+{"count": 1, "ids": [172], "pos": "np", "rank": 0.0038756587589441993, "text": "sense"}
+{"count": 1, "ids": [216], "pos": "np", "rank": 0.0038666595176323343, "text": "rules"}
+{"count": 1, "ids": [310, 284], "pos": "np", "rank": 0.0038457574436203262, "text": "possible classes"}
+{"count": 4, "ids": [282], "pos": "nn", "rank": 0.003830929335852433, "text": "task"}
+{"count": 1, "ids": [331], "pos": "nn", "rank": 0.0036778357153451646, "text": "accuracy"}
+{"count": 1, "ids": [190, 145], "pos": "np", "rank": 0.0036701707072896036, "text": "better time"}
+{"count": 1, "ids": [217], "pos": "np", "rank": 0.003670168639704376, "text": "model"}
+{"count": 1, "ids": [0, 177, 0, 200, 93], "pos": "np", "rank": 0.0036473104265508306, "text": "this age of modern technology"}
+{"count": 2, "ids": [236], "pos": "np", "rank": 0.0034752253132483285, "text": "e-mail"}
+{"count": 3, "ids": [175], "pos": "nn", "rank": 0.003460438140021488, "text": "field"}
+{"count": 1, "ids": [256, 257], "pos": "np", "rank": 0.003337033121368499, "text": "fundamental differences"}
+{"count": 1, "ids": [316, 289, 282], "pos": "np", "rank": 0.00326088365539672, "text": "multi-class classification task"}
+{"count": 1, "ids": [241], "pos": "nn", "rank": 0.0032228874883649355, "text": "voice"}
+{"count": 2, "ids": [323], "pos": "nn", "rank": 0.0032164356510302325, "text": "alphabet"}
+{"count": 2, "ids": [214], "pos": "nn", "rank": 0.0032142410309559614, "text": "order"}
+{"count": 1, "ids": [0, 14, 206, 0, 0, 207, 208], "pos": "np", "rank": 0.003196148696720269, "text": "the second half of the twentieth century"}
+{"count": 1, "ids": [230, 231], "pos": "np", "rank": 0.003196148696720269, "text": "greater role"}
+{"count": 1, "ids": [212], "pos": "nn", "rank": 0.0031918241691737508, "text": "development"}
+{"count": 1, "ids": [240], "pos": "nn", "rank": 0.003087097742425087, "text": "text"}
+{"count": 1, "ids": [97], "pos": "nns", "rank": 0.0030760326884987548, "text": "years"}
+{"count": 2, "ids": [322], "pos": "nn", "rank": 0.003052738182286456, "text": "letter"}
+{"count": 1, "ids": [211], "pos": "vbd", "rank": 0.0030241094106396586, "text": "involved"}
+{"count": 1, "ids": [296], "pos": "vbn", "rank": 0.003005376349359813, "text": "based"}
+{"count": 1, "ids": [265, 266], "pos": "np", "rank": 0.0030047804564620026, "text": "main goal"}
+{"count": 2, "ids": [203], "pos": "nns", "rank": 0.002992711359353684, "text": "amounts"}
+{"count": 3, "ids": [52], "pos": "nn", "rank": 0.0029783134092572637, "text": "set"}
+{"count": 1, "ids": [229], "pos": "nn", "rank": 0.002937243767255105, "text": "research"}
+{"count": 3, "ids": [314], "pos": "nn", "rank": 0.002820694902422389, "text": "dataset"}
+{"count": 1, "ids": [268], "pos": "vbz", "rank": 0.002798954445450698, "text": "allows"}
+{"count": 1, "ids": [238], "pos": "nns", "rank": 0.0027672674292403064, "text": "filters"}
+{"count": 1, "ids": [204], "pos": "vbn", "rank": 0.0027634669098806535, "text": "structured"}
+{"count": 1, "ids": [191], "pos": "vb", "rank": 0.0027281749081864734, "text": "break"}
+{"count": 1, "ids": [327], "pos": "nn", "rank": 0.0027200589545501113, "text": "device"}
+{"count": 1, "ids": [197], "pos": "nns", "rank": 0.002695753638575328, "text": "events"}
+{"count": 2, "ids": [188], "pos": "vb", "rank": 0.002595523379972694, "text": "develop"}
+{"count": 2, "ids": [180], "pos": "nn", "rank": 0.0025665037191531827, "text": "self-learning"}
+{"count": 1, "ids": [263], "pos": "nns", "rank": 0.002544395271217896, "text": "domains"}
+{"count": 1, "ids": [308, 311], "pos": "np", "rank": 0.0025440907353741927, "text": "binary nature"}
+{"count": 1, "ids": [94], "pos": "vbz", "rank": 0.002518350929874807, "text": "comes"}
+{"count": 1, "ids": [276], "pos": "nn", "rank": 0.002491860351555832, "text": "filtering"}
+{"count": 1, "ids": [326], "pos": "nn", "rank": 0.002469391489370241, "text": "input"}
+{"count": 1, "ids": [320], "pos": "vbz", "rank": 0.002465058933438699, "text": "consists"}
+{"count": 1, "ids": [306], "pos": "vbz", "rank": 0.0024617929101573752, "text": "represents"}
+{"count": 1, "ids": [223], "pos": "nn", "rank": 0.0024518941288559316, "text": "performance"}
+{"count": 1, "ids": [305], "pos": "nn", "rank": 0.0024357774201871577, "text": "detection"}
+{"count": 1, "ids": [233], "pos": "nn", "rank": 0.002304035788072087, "text": "life"}
+{"count": 1, "ids": [76], "pos": "vb", "rank": 0.00229910413241865, "text": "recognize"}
+{"count": 1, "ids": [39], "pos": "np", "rank": 0.0022982655569217785, "text": "humans"}
+{"count": 1, "ids": [227], "pos": "vbg", "rank": 0.0022820021236600314, "text": "becoming"}
+{"count": 1, "ids": [289], "pos": "np", "rank": 0.002281409138457079, "text": "classification"}
+{"count": 1, "ids": [249], "pos": "nns", "rank": 0.0022632509649637557, "text": "cars"}
+{"count": 1, "ids": [226], "pos": "nns", "rank": 0.0021963198029893013, "text": "decisions"}
+{"count": 2, "ids": [275], "pos": "nn", "rank": 0.0021709479779897993, "text": "signal"}
+{"count": 1, "ids": [80], "pos": "vb", "rank": 0.002153764713552253, "text": "improve"}
+{"count": 1, "ids": [213], "pos": "vb", "rank": 0.0020987148650590624, "text": "gain"}
+{"count": 1, "ids": [63], "pos": "nn", "rank": 0.002092654903140765, "text": "intelligence"}
+{"count": 1, "ids": [302], "pos": "nns", "rank": 0.0020794635002834394, "text": "memberships"}
+{"count": 1, "ids": [194], "pos": "nns", "rank": 0.002053618989617077, "text": "patterns"}
+{"count": 1, "ids": [222], "pos": "vbg", "rank": 0.0020387801800141334, "text": "capturing"}
+{"count": 1, "ids": [210], "pos": "nn", "rank": 0.001994062771411279, "text": "subfield"}
+{"count": 1, "ids": [312], "pos": "vb", "rank": 0.001988894979228227, "text": "assign"}
+{"count": 2, "ids": [10], "pos": "nn", "rank": 0.001968903729704499, "text": "computer"}
+{"count": 1, "ids": [187], "pos": "nns", "rank": 0.0019674754371729417, "text": "libraries"}
+{"count": 1, "ids": [304], "pos": "nnp", "rank": 0.0018944488994321934, "text": "e-mail-spam"}
+{"count": 2, "ids": [198], "pos": "nn", "rank": 0.0018482355702468486, "text": "build"}
+{"count": 1, "ids": [145], "pos": "nn", "rank": 0.0018350853536448018, "text": "time"}
+{"count": 1, "ids": [313], "pos": "vbn", "rank": 0.0018349494356322419, "text": "presented"}
+{"count": 1, "ids": [93], "pos": "nn", "rank": 0.0018236552132754153, "text": "technology"}
+{"count": 1, "ids": [200, 93], "pos": "np", "rank": 0.0018236552132754153, "text": "modern technology"}
+{"count": 2, "ids": [177], "pos": "nn", "rank": 0.0017157125765145398, "text": "age"}
+{"count": 1, "ids": [301], "pos": "nn", "rank": 0.0017157125765145398, "text": "group"}
+{"count": 1, "ids": [273], "pos": "vbn", "rank": 0.001687075969391958, "text": "desired"}
+{"count": 1, "ids": [257], "pos": "nns", "rank": 0.0016685165606842496, "text": "differences"}
+{"count": 1, "ids": [280], "pos": "vbz", "rank": 0.001666509909370535, "text": "belongs"}
+{"count": 1, "ids": [316], "pos": "nn", "rank": 0.00163044182769836, "text": "multi-class"}
+{"count": 1, "ids": [219], "pos": "vbz", "rank": 0.0016214269912511868, "text": "offers"}
+{"count": 1, "ids": [209], "pos": "vbn", "rank": 0.001615332375769111, "text": "evolved"}
+{"count": 1, "ids": [11], "pos": "nn", "rank": 0.001615332375769111, "text": "system"}
+{"count": 1, "ids": [193], "pos": "vb", "rank": 0.0016046669209480702, "text": "spot"}
+{"count": 1, "ids": [215], "pos": "vb", "rank": 0.0015980743483601345, "text": "derive"}
+{"count": 1, "ids": [231], "pos": "nn", "rank": 0.0015980743483601345, "text": "role"}
+{"count": 1, "ids": [207, 208], "pos": "np", "rank": 0.0015980743483601345, "text": "twentieth century"}
+{"count": 1, "ids": [148], "pos": "vbz", "rank": 0.0015580572362700479, "text": "does"}
+{"count": 1, "ids": [186], "pos": "nn", "rank": 0.001539130726563743, "text": "source"}
+{"count": 1, "ids": [309], "pos": "vb", "rank": 0.0015317230162110959, "text": "distinguish"}
+{"count": 2, "ids": [290], "pos": "nn", "rank": 0.0015032388740698335, "text": "subcategory"}
+{"count": 1, "ids": [266], "pos": "np", "rank": 0.0015023902282310013, "text": "goal"}
+{"count": 2, "ids": [252], "pos": "nns", "rank": 0.0014962956127489255, "text": "types"}
+{"count": 1, "ids": [218], "pos": "vbg", "rank": 0.0014818253379947674, "text": "analyzing"}
+{"count": 1, "ids": [199], "pos": "vb", "rank": 0.0014350473285483594, "text": "transform"}
+{"count": 1, "ids": [287], "pos": "nn", "rank": 0.0014301802433896724, "text": "spam-filtering"}
+{"count": 1, "ids": [262], "pos": "nn", "rank": 0.0013751667350820997, "text": "problem"}
+{"count": 1, "ids": [277], "pos": "nn", "rank": 0.0013716304577242814, "text": "corpus"}
+{"count": 1, "ids": [248], "pos": "nn", "rank": 0.001366041557315735, "text": "self-driving"}
+{"count": 1, "ids": [103], "pos": "nn", "rank": 0.001356492074714251, "text": "intuition"}
+{"count": 1, "ids": [274], "pos": "nn", "rank": 0.0013381893713798234, "text": "output"}
+{"count": 1, "ids": [208], "pos": "nn", "rank": 0.0013004326238454037, "text": "century"}
+{"count": 1, "ids": [176], "pos": "vbg", "rank": 0.0012877883828841428, "text": "living"}
+{"count": 1, "ids": [201], "pos": "nn", "rank": 0.0012877883828841428, "text": "resource"}
+{"count": 1, "ids": [264], "pos": "vbn", "rank": 0.0012877883828841428, "text": "applied"}
+{"count": 1, "ids": [27], "pos": "vbn", "rank": 0.0012877883828841428, "text": "known"}
+{"count": 1, "ids": [279], "pos": "vbn", "rank": 0.0012877883828841428, "text": "marked"}
+{"count": 1, "ids": [288], "pos": "vbn", "rank": 0.0012877883828841428, "text": "called"}
+{"count": 1, "ids": [300], "pos": "vbn", "rank": 0.0012877883828841428, "text": "understood"}
+{"count": 1, "ids": [334], "pos": "nn", "rank": 0.0012877883828841428, "text": "part"}
+{"count": 1, "ids": [311], "pos": "nn", "rank": 0.0012720453676870963, "text": "nature"}
+{"count": 1, "ids": [272], "pos": "nns", "rank": 0.0012540157699639858, "text": "samples"}
+{"count": 1, "ids": [270], "pos": "np", "rank": 0.0012422372699864444, "text": "term"}
+{"count": 1, "ids": [324], "pos": "np", "rank": 0.0012422372699864444, "text": "user"}
+{"count": 1, "ids": [168], "pos": "nn", "rank": 0.0012383831564971677, "text": "application"}
+{"count": 1, "ids": [234], "pos": "vbp", "rank": 0.0012383831564971677, "text": "enjoy"}
+{"count": 1, "ids": [255], "pos": "nn", "rank": 0.0012383831564971677, "text": "reinforcement"}
+{"count": 1, "ids": [192], "pos": "vb", "rank": 0.0012322885410150919, "text": "utilize"}
+{"count": 1, "ids": [225], "pos": "nns", "rank": 0.0011873175567410404, "text": "data-driven"}
+{"count": 1, "ids": [271], "pos": "vbz", "rank": 0.001171029909061393, "text": "refers"}
+{"count": 1, "ids": [206], "pos": "nn", "rank": 0.0011491327784608893, "text": "half"}
+{"count": 1, "ids": [251], "pos": "nn", "rank": 0.0011491327784608893, "text": "look"}
+{"count": 1, "ids": [14, 206], "pos": "np", "rank": 0.0011491327784608893, "text": "second half"}
+{"count": 1, "ids": [221], "pos": "nn", "rank": 0.0011020344855819013, "text": "alternative"}
+{"count": 1, "ids": [325], "pos": "vbz", "rank": 0.0008851257067270557, "text": "provides"}
+{"count": 1, "ids": [167], "pos": "nn", "rank": 0.0006211186349932222, "text": "opinion"}
+{"count": 1, "ids": [181], "pos": "vb", "rank": 0.0006211186349932222, "text": "turn"}
+{"count": 2, "ids": [183], "pos": "nns", "rank": 0.0006211186349932222, "text": "thanks"}
+{"count": 1, "ids": [100], "pos": "vbg", "rank": 0.0006211186349932222, "text": "requiring"}
+{"count": 1, "ids": [4], "pos": "vbz", "rank": 0.0006211186349932222, "text": "plays"}
+{"count": 1, "ids": [19], "pos": "vb", "rank": 0.0006211186349932222, "text": "take"}
+{"count": 1, "ids": [47], "pos": "vbg", "rank": 0.0006211186349932222, "text": "considering"}
+{"count": 1, "ids": [153], "pos": "vb", "rank": 0.0006211186349932222, "text": "train"}
+{"count": 1, "ids": [278], "pos": "nn", "rank": 0.0006211186349932222, "text": "mail"}
+{"count": 1, "ids": [128], "pos": "nn", "rank": 0.0006211186349932222, "text": "outcome"}
+{"count": 1, "ids": [303], "pos": "vbn", "rank": 0.0006211186349932222, "text": "mentioned"}
+{"count": 1, "ids": [319], "pos": "vb", "rank": 0.0006211186349932222, "text": "collect"}
