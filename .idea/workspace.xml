@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="927388e7-8102-452d-92f8-31adda44f2d0" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/textsummarizer-db/diagnostic.data/metrics.2017-12-02T15-00-32Z-00000" afterPath="$PROJECT_DIR$/textsummarizer-db/diagnostic.data/metrics.2017-12-02T15-00-32Z-00000" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/textsummarizer-db/diagnostic.data/metrics.interim" afterPath="$PROJECT_DIR$/textsummarizer-db/diagnostic.data/metrics.interim" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
@@ -52,8 +53,8 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="11" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+            <state relative-caret-position="720">
+              <caret line="48" column="173" lean-forward="false" selection-start-line="48" selection-start-column="173" selection-end-line="48" selection-end-column="173" />
               <folding />
             </state>
           </provider>
@@ -264,12 +265,12 @@
       <workItem from="1512226509575" duration="7820000" />
       <workItem from="1512303194759" duration="12105000" />
       <workItem from="1512347525233" duration="516000" />
-      <workItem from="1512353359505" duration="200000" />
+      <workItem from="1512353359505" duration="509000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20641000" />
+    <option name="totallyTimeSpent" value="20950000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="947" extended-state="0" />
@@ -715,8 +716,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="11" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        <state relative-caret-position="720">
+          <caret line="48" column="173" lean-forward="false" selection-start-line="48" selection-start-column="173" selection-end-line="48" selection-end-column="173" />
           <folding />
         </state>
       </provider>
